@@ -1,0 +1,2129 @@
+18:21:38.553223:1/1983.Skipping headers : ['title', 'imdb_rating', 'viewing_date', 'personal_rating', 'children']
+18:21:39.618284:2/1983.Found 2 results for The face of another. Taking first one
+18:21:40.831354:3/1983.Failed. Found no results for Happy people : One year in the taiga
+18:21:41.223376:4/1983.Found 1 results for the age of shadows. Taking first one
+18:21:42.435445:5/1983.Found 3 results for Like a dragon. Taking first one
+18:21:43.674516:6/1983.Found 1 results for Into the inferno. Taking first one
+18:21:44.908587:7/1983.Found 1 results for Okja. Taking first one
+18:21:46.088654:8/1983.Found 3 results for Wheel of Time. Taking first one
+18:21:47.385729:9/1983.Found 1 results for Make Way for Tomorrow. Taking first one
+18:21:48.598798:10/1983.Found 1 results for Nobody Speak: Trials of the Free Press. Taking first one
+18:21:49.781866:11/1983.Found 1 results for Joshua: Teenager vs. Superpower. Taking first one
+18:21:50.992935:12/1983.Found 1 results for I, Daniel Blake. Taking first one
+18:21:52.192003:13/1983.Found 1 results for Swiss army man. Taking first one
+18:21:53.418074:14/1983.Found 2 results for Stella Dallas. Taking first one
+18:21:54.624143:15/1983.Found 2 results for Merci Patron. Taking first one
+18:21:55.032166:40 requests reached. Pausing 10 sec
+18:22:06.011794:16/1983.Found 1 results for Dark Star: HR Gigers Welt. Taking first one
+18:22:07.276866:17/1983.Failed. Found no results for Castelvania
+18:22:07.694890:18/1983.Found 1 results for Les Fantômes d'Ismaël. Taking first one
+18:22:08.946962:19/1983.Found 3 results for The gatekeepers. Taking first one
+18:22:10.155031:20/1983.Found 1 results for Le rayon vert. Taking first one
+18:22:11.348099:21/1983.Found 1 results for Minimalism: A Documentary About the Important Things. Taking first one
+18:22:12.574169:22/1983.Found 1 results for Rosalie Blum. Taking first one
+18:22:13.779238:23/1983.Found 1 results for Going Sane. Taking first one
+18:22:14.986307:24/1983.Found 1 results for The Life of Emile Zola. Taking first one
+18:22:16.183376:25/1983.Found 1 results for Antiviral. Taking first one
+18:22:17.408446:26/1983.Found 1 results for L'avocat de la terreur. Taking first one
+18:22:18.615515:27/1983.Found 4 results for Mr Nobody. Taking first one
+18:22:19.822584:28/1983.Found 5 results for Paterson. Taking first one
+18:22:21.047654:29/1983.Found 10 results for Meru. Taking first one
+18:22:21.441676:40 requests reached. Pausing 10 sec
+18:22:32.255295:30/1983.Found 99 results for Tunnel. Taking first one
+18:22:33.469364:31/1983.Found 11 results for War Machine. Taking first one
+18:22:34.647432:32/1983.Found 1 results for Lo and Behold, Reveries of the Connected World. Taking first one
+18:22:35.858501:33/1983.Found 30 results for Blame. Taking first one
+18:22:37.058570:34/1983.Found 70 results for Split. Taking first one
+18:22:38.298641:35/1983.Found 6 results for Hell or High Water. Taking first one
+18:22:40.028740:36/1983.Found 1 results for Comment c'est loin. Taking first one
+18:22:41.227808:37/1983.Found 1 results for Citizenfour. Taking first one
+18:22:42.392875:38/1983.Found 1 results for Searching For  Sugar Man. Taking first one
+18:22:43.603944:39/1983.Found 1 results for Casting Jonbenet. Taking first one
+18:22:44.823014:40/1983.Found 104 results for Legion. Taking first one
+18:22:46.056084:41/1983.Found 47 results for Arrival. Taking first one
+18:22:47.302156:42/1983.Found 2 results for Atari: Game Over. Taking first one
+18:22:48.099201:40 requests reached. Pausing 10 sec
+18:22:58.484795:43/1983.Found 1 results for Tony Manero. Taking first one
+18:22:59.700865:44/1983.Found 27 results for Graduation. Taking first one
+18:23:00.881932:45/1983.Found 1 results for the white helmets. Taking first one
+18:23:02.095002:46/1983.Found 16 results for Narcos. Taking first one
+18:23:03.284070:47/1983.Failed. Found no results for The young pope 1-2
+18:23:03.708094:48/1983.Found 1 results for The Blood of Heroes. Taking first one
+18:23:04.892162:49/1983.Found 10 results for Dark City. Taking first one
+18:23:06.048228:50/1983.Found 1 results for Hardcore Henry. Taking first one
+18:23:07.314300:51/1983.Found 2 results for Real Steel. Taking first one
+18:23:08.533370:52/1983.Found 6 results for Saint Laurent. Taking first one
+18:23:09.748439:53/1983.Found 1 results for Nocturama. Taking first one
+18:23:10.931507:54/1983.Found 297 results for Elle. Taking first one
+18:23:12.130576:55/1983.Found 1 results for All work all play. Taking first one
+18:23:13.364646:56/1983.Found 6 results for Tremors. Taking first one
+18:23:14.166692:40 requests reached. Pausing 10 sec
+18:23:24.558287:57/1983.Found 3 results for Harmonium. Taking first one
+18:23:25.749355:58/1983.Found 2 results for The Handmaiden. Taking first one
+18:23:26.942423:59/1983.Found 1 results for Indie Game : the movie. Taking first one
+18:23:28.115490:60/1983.Found 1 results for la vie est un long fleuve tranquille. Taking first one
+18:23:29.394563:61/1983.Found 3 results for Pumping Iron. Taking first one
+18:23:30.653635:62/1983.Found 1172 results for La La Land. Taking first one
+18:23:31.952709:63/1983.Found 5 results for Black Mirror. Taking first one
+18:23:33.127777:64/1983.Found 3 results for Frantz. Taking first one
+18:23:34.333846:65/1983.Found 1 results for Exit through the gift shop. Taking first one
+18:23:35.525914:66/1983.Found 21 results for La haine. Taking first one
+18:23:36.740983:67/1983.Found 2 results for Captain Fantastic. Taking first one
+18:23:37.957053:68/1983.Found 1 results for Réparer les vivants. Taking first one
+18:23:39.567145:69/1983.Found 1 results for Ilha das Flores. Taking first one
+18:23:40.753213:70/1983.Found 1 results for The Shallows. Taking first one
+18:23:40.753213:40 requests reached. Pausing 10 sec
+18:23:52.051859:71/1983.Found 1 results for Clouds of Sils Maria. Taking first one
+18:23:53.219926:72/1983.Found 2 results for Toni Erdmann. Taking first one
+18:23:54.429995:73/1983.Found 5 results for Waste land. Taking first one
+18:23:55.623063:74/1983.Found 1 results for L'économie du couple. Taking first one
+18:23:56.833133:75/1983.Found 3 results for Captains courageous. Taking first one
+18:23:58.050202:76/1983.Found 10 results for Midnight Special. Taking first one
+18:23:59.232270:77/1983.Found 2 results for Stella Dallas. Taking first one
+18:24:00.455340:78/1983.Found 10 results for The Magnificent Seven. Taking first one
+18:24:01.629407:79/1983.Found 1 results for Dodsworth. Taking first one
+18:24:02.839476:80/1983.Failed. Found no results for Lastman
+18:24:03.239499:81/1983.Found 19 results for Sabotage. Taking first one
+18:24:04.515572:82/1983.Found 4 results for Saboteur. Taking first one
+18:24:05.713640:83/1983.Found 2 results for La tête haute. Taking first one
+18:24:06.924710:84/1983.Found 1 results for Avril et le monde truque. Taking first one
+18:24:06.924710:40 requests reached. Pausing 10 sec
+18:24:18.093349:85/1983.Found 23 results for Spotlight. Taking first one
+18:24:19.300418:86/1983.Found 17 results for Steve Jobs. Taking first one
+18:24:20.490486:87/1983.Found 2 results for 2ldk. Taking first one
+18:24:21.671553:88/1983.Found 1 results for Train to busan. Taking first one
+18:24:22.856621:89/1983.Found 1 results for Bridge of spies. Taking first one
+18:24:24.024688:90/1983.Found 1 results for The Neon Demon. Taking first one
+18:24:25.198755:91/1983.Found 4 results for Qui vive. Taking first one
+18:24:26.446826:92/1983.Found 9 results for Animal farm. Taking first one
+18:24:27.618893:93/1983.Found 2 results for Ip man 3. Taking first one
+18:24:28.782960:94/1983.Found 5 results for Watership down. Taking first one
+18:24:29.975028:95/1983.Found 2 results for Nuit et Brouillard. Taking first one
+18:24:31.171097:96/1983.Found 8 results for A Married Woman. Taking first one
+18:24:32.333163:97/1983.Found 3 results for Rocky Balboa. Taking first one
+18:24:32.732186:40 requests reached. Pausing 10 sec
+18:24:43.589807:98/1983.Found 2 results for Son of Saul. Taking first one
+18:24:44.838878:99/1983.Found 1 results for Fruitvale Station. Taking first one
+18:24:46.089950:100/1983.Found 4 results for Repo Man. Taking first one
+18:24:47.320020:101/1983.Found 2 results for Wings of hope. Taking first one
+18:24:48.590093:102/1983.Found 1 results for Lessons of Darkness. Taking first one
+18:24:49.943170:103/1983.Found 1 results for Moonrise Kingdom. Taking first one
+18:24:51.222243:104/1983.Failed. Found no results for FullMetal Alchemist : Brotherhood 1-64
+18:24:51.656268:105/1983.Found 2 results for Picnic at Hanging Rock. Taking first one
+18:24:52.922341:106/1983.Found 1 results for Hunt for the Wilderpeople. Taking first one
+18:24:54.193413:107/1983.Found 2 results for X-Men Apocalypse. Taking first one
+18:24:55.569492:108/1983.Found 1 results for My Dinner with Andre. Taking first one
+18:24:56.819564:109/1983.Found 1 results for Pride and Prejudice and Zombies. Taking first one
+18:24:58.069635:110/1983.Found 2 results for Son of Saul. Taking first one
+18:24:59.642725:111/1983.Found 11 results for The Immigrant. Taking first one
+18:25:00.054749:40 requests reached. Pausing 10 sec
+18:25:10.887368:112/1983.Found 2756 results for Life. Taking first one
+18:25:12.188443:113/1983.Found 1 results for Irrational Man. Taking first one
+18:25:13.436514:114/1983.Found 18 results for Camille. Taking first one
+18:25:14.689586:115/1983.Found 1 results for Captain America: Civil War. Taking first one
+18:25:15.943657:116/1983.Found 1 results for The Element Of Crime. Taking first one
+18:25:17.258733:117/1983.Found 24 results for The count of monte cristo. Taking first one
+18:25:18.518805:118/1983.Found 504 results for The rock. Taking first one
+18:25:19.806878:119/1983.Found 1 results for The call of cthulhu. Taking first one
+18:25:21.094952:120/1983.Found 1 results for Little Dieter Needs To Fly. Taking first one
+18:25:22.377025:121/1983.Found 49 results for King kong. Taking first one
+18:25:23.641098:122/1983.Found 1 results for Once upon a time in high school. Taking first one
+18:25:24.895169:123/1983.Found 1 results for The Look of Silence. Taking first one
+18:25:26.166242:124/1983.Found 8 results for De ce eu. Taking first one
+18:25:27.630326:40 requests reached. Pausing 10 sec
+18:25:38.037921:125/1983.Found 2 results for Comme un avion. Taking first one
+18:25:39.306994:126/1983.Found 157 results for The Assassin. Taking first one
+18:25:40.611068:127/1983.Found 15 results for Blancanieves. Taking first one
+18:25:41.844139:128/1983.Found 1 results for The act of killing. Taking first one
+18:25:43.323223:129/1983.Found 3 results for Being there. Taking first one
+18:25:44.558294:130/1983.Found 113 results for Reality. Taking first one
+18:25:45.757363:131/1983.Found 3 results for Hippocrate. Taking first one
+18:25:46.978432:132/1983.Found 1 results for Loin des hommes. Taking first one
+18:25:48.199502:133/1983.Found 1 results for Tant qu'il nous reste des fusils à pompe. Taking first one
+18:25:49.390570:134/1983.Found 4 results for the nutty professor. Taking first one
+18:25:50.591639:135/1983.Found 3 results for Lady Oscar. Taking first one
+18:25:51.814709:136/1983.Found 1 results for Lost in la mancha. Taking first one
+18:25:52.957774:137/1983.Found 1 results for the thin blue line. Taking first one
+18:25:54.200846:138/1983.Found 1 results for Mr Deeds Goes to Town. Taking first one
+18:25:54.200846:40 requests reached. Pausing 10 sec
+18:26:05.389486:139/1983.Found 1 results for Oslo, 31 août. Taking first one
+18:26:06.565553:140/1983.Found 2 results for The Big Short. Taking first one
+18:26:07.774622:141/1983.Found 8 results for The Rover. Taking first one
+18:26:08.970690:142/1983.Found 2 results for Madchen in uniform. Taking first one
+18:26:10.170759:143/1983.Found 1 results for Trois souvenirs de ma jeunesse. Taking first one
+18:26:11.331825:144/1983.Found 1 results for 10 Cloverfield lane. Taking first one
+18:26:12.564896:145/1983.Found 5 results for The revenant. Taking first one
+18:26:13.767965:146/1983.Found 7 results for Deadpool. Taking first one
+18:26:14.973034:147/1983.Found 2 results for Une partie de campagne. Taking first one
+18:26:16.153101:148/1983.Found 2 results for The Dybbuk. Taking first one
+18:26:17.348170:149/1983.Found 1 results for Babette's Feast. Taking first one
+18:26:18.540238:150/1983.Found 32 results for Creed. Taking first one
+18:26:19.712305:151/1983.Found 2 results for Swing time. Taking first one
+18:26:20.126328:40 requests reached. Pausing 10 sec
+18:26:30.912945:152/1983.Found 1 results for Show me a hero. Taking first one
+18:26:32.112014:153/1983.Found 4 results for The raid 2. Taking first one
+18:26:33.310082:154/1983.Found 24 results for Mustang. Taking first one
+18:26:34.502151:155/1983.Found 12 results for Inside Man. Taking first one
+18:26:35.661217:156/1983.Found 2 results for My Man Godfrey. Taking first one
+18:26:36.904288:157/1983.Found 1 results for Songs From The Second Floor. Taking first one
+18:26:38.088356:158/1983.Found 11 results for Sicario. Taking first one
+18:26:39.302425:159/1983.Found 1 results for Gates of heaven. Taking first one
+18:26:40.447491:160/1983.Found 3 results for Sister act. Taking first one
+18:26:41.666560:161/1983.Found 23 results for A.K. Taking first one
+18:26:43.153646:162/1983.Found 1 results for The Good, the bad, the weird. Taking first one
+18:26:44.393716:163/1983.Failed. Found no results for la vie est immense et pleine de dangers
+18:26:44.832742:164/1983.Found 5 results for Ong-Bak. Taking first one
+18:26:46.115815:165/1983.Found 4 results for The Corporation. Taking first one
+18:26:46.525838:40 requests reached. Pausing 10 sec
+18:26:57.349457:166/1983.Found 1 results for Hateful eight. Taking first one
+18:26:58.658532:167/1983.Found 5 results for A Night at the Opera. Taking first one
+18:26:59.894603:168/1983.Found 1 results for Accattone. Taking first one
+18:27:01.206678:169/1983.Found 3 results for Top hat. Taking first one
+18:27:02.459750:170/1983.Found 5 results for The lobster. Taking first one
+18:27:03.707821:171/1983.Found 1 results for Stories we tell. Taking first one
+18:27:05.055898:172/1983.Found 1 results for Alice In The Cities. Taking first one
+18:27:06.313970:173/1983.Found 4 results for Butch Cassidy And The Sundance Kid. Taking first one
+18:27:07.619045:174/1983.Found 9 results for Good Kill. Taking first one
+18:27:08.888117:175/1983.Found 1 results for Filantropica. Taking first one
+18:27:10.184192:176/1983.Found 7 results for Monster hunt. Taking first one
+18:27:11.517268:177/1983.Found 3 results for Mutiny On The Bounty. Taking first one
+18:27:12.783340:178/1983.Found 2 results for Paradise Now. Taking first one
+18:27:13.627389:40 requests reached. Pausing 10 sec
+18:27:24.037984:179/1983.Found 3 results for Woyzeck. Taking first one
+18:27:25.282055:180/1983.Found 1 results for Blackfish. Taking first one
+18:27:26.541127:181/1983.Found 7 results for Captain Blood. Taking first one
+18:27:27.768197:182/1983.Found 1 results for Black God, White Devil. Taking first one
+18:27:29.057271:183/1983.Found 2 results for Ong-Bak 2. Taking first one
+18:27:30.353345:184/1983.Found 14 results for The Martian. Taking first one
+18:27:31.612417:185/1983.Found 1 results for The leftovers. Taking first one
+18:27:32.841487:186/1983.Found 1 results for Into the badlands. Taking first one
+18:27:34.135562:187/1983.Found 2 results for Princess Diaries. Taking first one
+18:27:35.427635:188/1983.Failed. Found no results for Le jeûne, une nouvelle thérapie?
+18:27:35.893662:189/1983.Found 2 results for The fog of war. Taking first one
+18:27:37.150734:190/1983.Found 4 results for Scene from a marriage. Taking first one
+18:27:38.421807:191/1983.Found 1 results for Noriko's dinner table. Taking first one
+18:27:39.662878:192/1983.Found 1 results for Le voyage de Monsieur Crulic. Taking first one
+18:27:40.509926:40 requests reached. Pausing 10 sec
+18:27:50.948523:193/1983.Found 1 results for Mission: Impossible - Rogue Nation. Taking first one
+18:27:52.208595:194/1983.Found 111 results for Victoria. Taking first one
+18:27:53.540671:195/1983.Found 11 results for Didier. Taking first one
+18:27:54.782742:196/1983.Found 1 results for Quai d'Orsay. Taking first one
+18:27:56.032814:197/1983.Found 1 results for Time Bandits. Taking first one
+18:27:57.325888:198/1983.Found 16 results for Dont look back. Taking first one
+18:27:58.563959:199/1983.Found 1 results for The docks of New York. Taking first one
+18:27:59.809030:200/1983.Found 1 results for Even dwarfs started small. Taking first one
+18:28:01.095104:201/1983.Found 1 results for Monkey King: Hero Is Back. Taking first one
+18:28:02.395178:202/1983.Found 1 results for Mémoires pour Simone. Taking first one
+18:28:03.696252:203/1983.Found 449 results for the ear. Taking first one
+18:28:04.982326:204/1983.Failed. Found no results for Horishi
+18:28:05.409350:205/1983.Found 16 results for The Shaman. Taking first one
+18:28:06.679423:206/1983.Found 1 results for A most violent year. Taking first one
+18:28:07.523471:40 requests reached. Pausing 10 sec
+18:28:17.969069:207/1983.Found 127 results for Blade. Taking first one
+18:28:19.222140:208/1983.Found 3 results for Signs of life. Taking first one
+18:28:20.552216:209/1983.Found 57 results for Sweetheart. Taking first one
+18:28:21.833290:210/1983.Found 3 results for Mindscape. Taking first one
+18:28:23.091362:211/1983.Found 1 results for Pale flower. Taking first one
+18:28:24.407437:212/1983.Found 1 results for Jodorowsky's Dune. Taking first one
+18:28:25.638507:213/1983.Found 2 results for Twelve monkeys. Taking first one
+18:28:26.874578:214/1983.Found 7 results for Summer holiday. Taking first one
+18:28:28.136650:215/1983.Found 1808 results for Red. Taking first one
+18:28:29.400722:216/1983.Failed. Found no results for L'adieu au steack
+18:28:29.818746:217/1983.Found 40 results for Everest. Taking first one
+18:28:31.085819:218/1983.Found 2 results for Vivre sa vie. Taking first one
+18:28:32.380893:219/1983.Found 2 results for Star Wars: The Force Awakens. Taking first one
+18:28:33.653966:220/1983.Found 4 results for Reporters. Taking first one
+18:28:35.489071:40 requests reached. Pausing 10 sec
+18:28:45.896666:221/1983.Found 2 results for Into the abyss. Taking first one
+18:28:47.126736:222/1983.Found 4 results for Dragon: The Bruce Lee Story . Taking first one
+18:28:49.393866:223/1983.Found 1 results for Back to the Future Part III. Taking first one
+18:28:50.702941:224/1983.Found 10 results for The thin man. Taking first one
+18:28:51.957013:225/1983.Found 16 results for Mia madre. Taking first one
+18:28:53.217085:226/1983.Found 2 results for Heroes of the East. Taking first one
+18:28:54.500158:227/1983.Found 1 results for Satantango. Taking first one
+18:28:55.821234:228/1983.Found 1 results for Top of the lake. Taking first one
+18:28:57.079306:229/1983.Found 3 results for Back to the Future Part II. Taking first one
+18:28:58.338378:230/1983.Found 9 results for Whiplash. Taking first one
+18:28:59.599450:231/1983.Found 1 results for A man vanishes. Taking first one
+18:29:00.892524:232/1983.Found 4 results for It Happened One Night. Taking first one
+18:29:02.151596:233/1983.Found 1 results for Police, Adjective. Taking first one
+18:29:03.411668:234/1983.Found 1 results for Baahubali: The Beginning. Taking first one
+18:29:03.411668:40 requests reached. Pausing 10 sec
+18:29:14.677312:235/1983.Found 6 results for The blues brothers. Taking first one
+18:29:16.194399:236/1983.Found 1 results for La loi du marché. Taking first one
+18:29:17.472472:237/1983.Found 2 results for the wild blue yonder. Taking first one
+18:29:19.022561:238/1983.Found 7 results for Once upon a time in the west. Taking first one
+18:29:20.303634:239/1983.Found 1 results for Judge Priest. Taking first one
+18:29:21.595708:240/1983.Found 88 results for Ugly. Taking first one
+18:29:22.845779:241/1983.Found 1 results for Man on wire. Taking first one
+18:29:24.073850:242/1983.Found 1 results for Mr. Turner. Taking first one
+18:29:25.311920:243/1983.Found 1 results for D.A.R.Y.L.. Taking first one
+18:29:26.549991:244/1983.Found 19 results for The black cat. Taking first one
+18:29:27.795062:245/1983.Found 5 results for Inside Job. Taking first one
+18:29:29.070135:246/1983.Found 1 results for Une journée d'Andrei Arsenevitch. Taking first one
+18:29:30.338208:247/1983.Found 2 results for Les Glaneurs et la Glaneuse. Taking first one
+18:29:30.753232:40 requests reached. Pausing 10 sec
+18:29:41.602852:248/1983.Found 3 results for It's a gift. Taking first one
+18:29:42.955930:249/1983.Found 1 results for Ferris Bueller's Day Off. Taking first one
+18:29:44.198001:250/1983.Found 1 results for Why Don't You Play in Hell?. Taking first one
+18:29:45.472074:251/1983.Found 1 results for Portrait of the Fighter as a Young Man. Taking first one
+18:29:46.744146:252/1983.Found 5 results for Starship troopers. Taking first one
+18:29:47.986217:253/1983.Found 1 results for Enron the smartest guys in the room. Taking first one
+18:29:49.242289:254/1983.Found 1 results for Lethal weapon 4. Taking first one
+18:29:50.500361:255/1983.Found 4 results for Sans Soleil. Taking first one
+18:29:51.966445:256/1983.Found 1 results for Sons of the desert. Taking first one
+18:29:53.163513:257/1983.Found 1 results for Two in the Shadow. Taking first one
+18:29:54.336581:258/1983.Found 1 results for The American Friend. Taking first one
+18:29:55.508648:259/1983.Found 1 results for L'enfance nue. Taking first one
+18:29:56.694715:260/1983.Found 1 results for Four Nights With Anna. Taking first one
+18:29:57.516762:40 requests reached. Pausing 10 sec
+18:30:07.915357:261/1983.Found 1 results for S21 machine de mort khmer rouge . Taking first one
+18:30:09.110426:262/1983.Found 1 results for The Bitter Tea of General Yen. Taking first one
+18:30:10.291493:263/1983.Found 13 results for A Brief History. Taking first one
+18:30:11.470561:264/1983.Found 29 results for N.Y., N.Y.. Taking first one
+18:30:12.639627:265/1983.Failed. Found no results for Zmiana warty
+18:30:13.046651:266/1983.Found 14 results for Le sourire. Taking first one
+18:30:14.226718:267/1983.Found 1 results for La rivière du hibou. Taking first one
+18:30:15.436787:268/1983.Found 1 results for Les Statues Meurent Aussi . Taking first one
+18:30:16.643856:269/1983.Found 1 results for Wyrmwood. Taking first one
+18:30:17.847925:270/1983.Found 12 results for Kung Fu Killer. Taking first one
+18:30:19.060995:271/1983.Found 19 results for Van Gogh. Taking first one
+18:30:20.257063:272/1983.Found 1 results for Vers l'autre rive. Taking first one
+18:30:21.452131:273/1983.Found 1 results for Ladyhawke. Taking first one
+18:30:22.648200:274/1983.Found 112 results for Europa Europa. Taking first one
+18:30:23.438245:40 requests reached. Pausing 10 sec
+18:30:33.850841:275/1983.Found 1 results for Cowspiracy. Taking first one
+18:30:35.033908:276/1983.Found 1 results for Emo: The Musical. Taking first one
+18:30:36.219976:277/1983.Found 1 results for Top spin. Taking first one
+18:30:37.398044:278/1983.Found 1 results for Sur le fil de Darwin. Taking first one
+18:30:38.704118:279/1983.Found 1 results for Technotise: Edit & I. Taking first one
+18:30:39.934189:280/1983.Found 11 results for Mad max. Taking first one
+18:30:41.134257:281/1983.Found 1 results for 33 scènes de la vie. Taking first one
+18:30:42.335326:282/1983.Found 4 results for Rize. Taking first one
+18:30:43.608399:283/1983.Found 1 results for She Done Him Wrong. Taking first one
+18:30:44.886472:284/1983.Found 61 results for Cargo. Taking first one
+18:30:46.078540:285/1983.Found 1 results for Niki et Flo. Taking first one
+18:30:47.259608:286/1983.Found 2 results for the babadook. Taking first one
+18:30:48.536681:287/1983.Found 4 results for lethal weapon. Taking first one
+18:30:49.750750:288/1983.Found 8 results for Bogowie. Taking first one
+18:30:49.750750:40 requests reached. Pausing 10 sec
+18:31:01.280410:289/1983.Found 1 results for Gold Diggers of 1933. Taking first one
+18:31:02.544482:290/1983.Found 2 results for Russian Ark. Taking first one
+18:31:03.828555:291/1983.Found 2 results for Footlight parade. Taking first one
+18:31:05.115629:292/1983.Found 241 results for the devils. Taking first one
+18:31:06.405703:293/1983.Found 13 results for First Blood. Taking first one
+18:31:07.661775:294/1983.Found 45 results for L'ours. Taking first one
+18:31:08.932847:295/1983.Found 1 results for Enemy Mine. Taking first one
+18:31:10.191919:296/1983.Found 1 results for Ocean's twelve. Taking first one
+18:31:11.450991:297/1983.Found 1 results for Ocean's thirteen. Taking first one
+18:31:12.699063:298/1983.Found 21 results for Point Break. Taking first one
+18:31:14.006137:299/1983.Found 1 results for Dheepan. Taking first one
+18:31:15.321213:300/1983.Found 1 results for Queen Christina. Taking first one
+18:31:17.627345:301/1983.Found 1 results for Kumiko, the Treasure Hunter. Taking first one
+18:31:18.045368:40 requests reached. Pausing 10 sec
+18:31:28.944992:302/1983.Found 15 results for 42nd Street. Taking first one
+18:31:30.240066:303/1983.Found 2 results for Eega. Taking first one
+18:31:31.761153:304/1983.Found 518 results for Paul. Taking first one
+18:31:33.021225:305/1983.Failed. Found no results for De la veine à revendre
+18:31:33.428248:306/1983.Found 4 results for Pretty woman. Taking first one
+18:31:34.692321:307/1983.Found 2 results for Me and my gal. Taking first one
+18:31:36.249410:308/1983.Found 2 results for Notting Hill. Taking first one
+18:31:37.534483:309/1983.Found 1 results for Les choristes. Taking first one
+18:31:38.826557:310/1983.Found 1 results for Ode to my father. Taking first one
+18:31:40.088629:311/1983.Found 1 results for It follows. Taking first one
+18:31:41.347701:312/1983.Found 1 results for Mirrormask. Taking first one
+18:31:42.630775:313/1983.Found 29 results for Ant-man. Taking first one
+18:31:43.887847:314/1983.Found 3 results for Hoop dreams. Taking first one
+18:31:45.175920:315/1983.Found 1 results for Where the green ants dream. Taking first one
+18:31:45.607945:40 requests reached. Pausing 10 sec
+18:31:56.461566:316/1983.Found 13 results for About Time. Taking first one
+18:31:57.702637:317/1983.Found 2 results for Les combattants. Taking first one
+18:31:58.966709:318/1983.Failed. Found no results for The Suicide Room
+18:31:59.378733:319/1983.Found 2 results for 678. Taking first one
+18:32:00.685807:320/1983.Found 1 results for 7 days in hell. Taking first one
+18:32:01.946879:321/1983.Found 1 results for Mother Joan of the Angels. Taking first one
+18:32:03.232953:322/1983.Found 2 results for Foxcatcher. Taking first one
+18:32:04.524027:323/1983.Found 6 results for Trouble in paradise. Taking first one
+18:32:05.780099:324/1983.Found 1 results for 2046. Taking first one
+18:32:07.035170:325/1983.Found 160 results for In the house. Taking first one
+18:32:08.281242:326/1983.Found 1 results for L'après-midi d'un tortionnaire. Taking first one
+18:32:09.544314:327/1983.Found 7 results for Side effects. Taking first one
+18:32:10.814387:328/1983.Found 7 results for Twin Sisters. Taking first one
+18:32:12.119461:329/1983.Found 53 results for Taken. Taking first one
+18:32:12.533485:40 requests reached. Pausing 10 sec
+18:32:23.396106:330/1983.Found 8 results for Fidelio. Taking first one
+18:32:24.631177:331/1983.Found 1 results for Love Me Tonight. Taking first one
+18:32:25.885249:332/1983.Found 262 results for Fury. Taking first one
+18:32:27.187323:333/1983.Found 1 results for A touch of sin. Taking first one
+18:32:28.449395:334/1983.Found 349 results for The other. Taking first one
+18:32:29.712468:335/1983.Found 50 results for Millions. Taking first one
+18:32:30.983540:336/1983.Found 3 results for La Chienne. Taking first one
+18:32:32.240612:337/1983.Found 1 results for While We're Young. Taking first one
+18:32:33.515685:338/1983.Found 1 results for mange tes morts. Taking first one
+18:32:34.764757:339/1983.Found 1 results for Une nouvelle amie. Taking first one
+18:32:36.036829:340/1983.Found 1 results for In Bruges. Taking first one
+18:32:37.313902:341/1983.Found 8 results for The Public Enemy. Taking first one
+18:32:38.606976:342/1983.Found 8 results for The Go-Between. Taking first one
+18:32:39.470026:40 requests reached. Pausing 10 sec
+18:32:49.885621:343/1983.Found 3 results for Diary of the dead. Taking first one
+18:32:51.203697:344/1983.Found 26 results for Le million. Taking first one
+18:32:52.466769:345/1983.Found 1 results for I Am a Fugitive from a Chain Gang. Taking first one
+18:32:53.724841:346/1983.Found 19 results for The source. Taking first one
+18:32:55.291931:347/1983.Found 1 results for Hellzapoppin. Taking first one
+18:32:56.590005:348/1983.Found 2 results for Ocean's eleven. Taking first one
+18:32:57.866078:349/1983.Found 1 results for Michael the Brave. Taking first one
+18:32:59.170152:350/1983.Found 64 results for The mummy. Taking first one
+18:33:00.696240:351/1983.Found 1 results for Dracula untold. Taking first one
+18:33:01.989314:352/1983.Found 1 results for Snow Therapy. Taking first one
+18:33:03.279387:353/1983.Found 2 results for House of 1000 Corpses. Taking first one
+18:33:04.514458:354/1983.Found 8 results for Kung Fury. Taking first one
+18:33:05.801532:355/1983.Found 4 results for American Sniper. Taking first one
+18:33:07.074605:356/1983.Found 1 results for À Nous la Liberté. Taking first one
+18:33:07.074605:40 requests reached. Pausing 10 sec
+18:33:18.370251:357/1983.Found 4 results for Hotel Transylvania. Taking first one
+18:33:19.663325:358/1983.Found 3 results for All quiet on the western front. Taking first one
+18:33:20.915396:359/1983.Found 1 results for Genealogies d'un crime. Taking first one
+18:33:22.172468:360/1983.Found 7 results for Ex Machina. Taking first one
+18:33:23.434540:361/1983.Found 2 results for Girlhood. Taking first one
+18:33:24.702613:362/1983.Found 2 results for Kingsman: The Secret Service. Taking first one
+18:33:25.975686:363/1983.Found 44 results for The judge. Taking first one
+18:33:27.247758:364/1983.Found 2 results for Little Caesar. Taking first one
+18:33:28.550833:365/1983.Found 36 results for Le Bonheur. Taking first one
+18:33:29.812905:366/1983.Found 1 results for The Curious Case of Benjamin Button. Taking first one
+18:33:31.073977:367/1983.Found 2 results for Domnisoara Christina. Taking first one
+18:33:32.327049:368/1983.Found 219 results for Psycho. Taking first one
+18:33:33.573120:369/1983.Found 24 results for Teenage Mutant Ninja Turtles. Taking first one
+18:33:33.983144:40 requests reached. Pausing 10 sec
+18:33:44.875767:370/1983.Found 1 results for A Girl Walks Home Alone at Night. Taking first one
+18:33:46.272847:371/1983.Found 25 results for Blackmail. Taking first one
+18:33:47.505917:372/1983.Found 1 results for Big trouble in Little China. Taking first one
+18:33:48.766989:373/1983.Found 3 results for Inside Llewyn Davis. Taking first one
+18:33:50.055063:374/1983.Found 8 results for Pandora's Box. Taking first one
+18:33:51.319135:375/1983.Found 2 results for This is 40. Taking first one
+18:33:52.597208:376/1983.Found 8 results for War Horse. Taking first one
+18:33:53.859280:377/1983.Found 1 results for Storm over asia. Taking first one
+18:33:55.101352:378/1983.Found 1 results for Mad Max: fury road. Taking first one
+18:33:56.399426:379/1983.Found 12 results for Irezumi. Taking first one
+18:33:57.697500:380/1983.Found 2 results for Maleficent. Taking first one
+18:33:58.985574:381/1983.Found 1 results for Dororo. Taking first one
+18:34:00.433656:382/1983.Found 7 results for The reader. Taking first one
+18:34:01.228702:40 requests reached. Pausing 10 sec
+18:34:11.652298:383/1983.Found 3 results for Escape From New York. Taking first one
+18:34:12.975374:384/1983.Found 3 results for John Wick. Taking first one
+18:34:14.142441:385/1983.Found 2 results for The kid brother. Taking first one
+18:34:15.325508:386/1983.Found 1 results for The dead lands. Taking first one
+18:34:16.510576:387/1983.Found 1 results for The Hunger Games: Mockingjay - Part 1. Taking first one
+18:34:17.724645:388/1983.Found 2 results for Earthlings. Taking first one
+18:34:18.971717:389/1983.Found 82 results for The unknown. Taking first one
+18:34:20.172786:390/1983.Found 12 results for Irezumi. Taking first one
+18:34:21.420857:391/1983.Found 72 results for Rocky. Taking first one
+18:34:22.592924:392/1983.Found 2 results for The imitation game. Taking first one
+18:34:23.795993:393/1983.Found 11 results for Battle without honor and humanity. Taking first one
+18:34:25.034064:394/1983.Found 1 results for Deadly fight in Hiroshima. Taking first one
+18:34:26.208131:395/1983.Found 23 results for the shining. Taking first one
+18:34:27.383198:396/1983.Found 1 results for Police Tactics. Taking first one
+18:34:27.383198:40 requests reached. Pausing 10 sec
+18:34:38.598839:397/1983.Found 8 results for Final Episode. Taking first one
+18:34:39.860912:398/1983.Found 2 results for The Tale of The Princess Kaguya. Taking first one
+18:34:41.036979:399/1983.Found 1 results for The Texas Chain Saw Massacre . Taking first one
+18:34:42.253048:400/1983.Found 12 results for Berserk. Taking first one
+18:34:43.491119:401/1983.Found 2 results for Lords of dogtown. Taking first one
+18:34:44.739191:402/1983.Found 2 results for Greenberg. Taking first one
+18:34:45.930259:403/1983.Found 1 results for L'aimée. Taking first one
+18:34:47.140328:404/1983.Found 77 results for Locke. Taking first one
+18:34:48.357398:405/1983.Found 28 results for Peter pan. Taking first one
+18:34:49.666472:406/1983.Found 44 results for Mommy. Taking first one
+18:34:50.855540:407/1983.Found 1 results for the virgin stripped bare by her bachelors. Taking first one
+18:34:52.076610:408/1983.Found 3 results for the thief of bagdad. Taking first one
+18:34:53.306681:409/1983.Found 1 results for Sherlock Jr.. Taking first one
+18:34:53.698703:40 requests reached. Pausing 10 sec
+18:35:04.565325:410/1983.Found 1 results for Tokyo Tribe. Taking first one
+18:35:05.799395:411/1983.Found 1318 results for Legend. Taking first one
+18:35:07.014465:412/1983.Found 5 results for Der letzte mann. Taking first one
+18:35:08.250535:413/1983.Found 10 results for Robocop. Taking first one
+18:35:09.465605:414/1983.Found 1 results for the clone returns home. Taking first one
+18:35:11.044695:415/1983.Found 7 results for Les chevaliers du zodiaque. Taking first one
+18:35:13.251821:416/1983.Found 110 results for Rio 2. Taking first one
+18:35:14.455890:417/1983.Found 1 results for Gate of flesh. Taking first one
+18:35:15.686961:418/1983.Found 8 results for I Origins. Taking first one
+18:35:16.862028:419/1983.Found 1 results for The lost bladesman. Taking first one
+18:35:18.051096:420/1983.Found 1 results for La graine et le mulet. Taking first one
+18:35:19.273166:421/1983.Found 1 results for Alexander and the Terrible, Horrible, No Good, Very Bad Day. Taking first one
+18:35:21.104271:422/1983.Found 1 results for Solutions locales pour un désordre global. Taking first one
+18:35:21.946319:40 requests reached. Pausing 10 sec
+18:35:32.358914:423/1983.Found 4 results for Life Itself. Taking first one
+18:35:33.580984:424/1983.Found 1 results for Tales from the Golden Age. Taking first one
+18:35:34.886059:425/1983.Found 17 results for Ilo ilo. Taking first one
+18:35:36.197134:426/1983.Found 2 results for Proxy War. Taking first one
+18:35:37.413203:427/1983.Found 6 results for Blade Runner. Taking first one
+18:35:38.689276:428/1983.Found 6 results for Birdman. Taking first one
+18:35:39.906346:429/1983.Found 10 results for Love Sick. Taking first one
+18:35:41.084413:430/1983.Found 1 results for Big Hero 6. Taking first one
+18:35:42.344485:431/1983.Found 2 results for Foolish wives. Taking first one
+18:35:43.548554:432/1983.Found 3 results for Another year. Taking first one
+18:35:44.745623:433/1983.Found 3 results for Nightcrawler. Taking first one
+18:35:46.944749:434/1983.Found 17 results for Downfall. Taking first one
+18:35:48.104815:435/1983.Found 1 results for La souriante Madame Beudet. Taking first one
+18:35:49.270882:436/1983.Found 1 results for War of the arrows. Taking first one
+18:35:49.270882:40 requests reached. Pausing 10 sec
+18:36:00.503524:437/1983.Found 3 results for Bird people. Taking first one
+18:36:01.773597:438/1983.Found 1 results for Orphans of the Storm. Taking first one
+18:36:03.239681:439/1983.Found 9 results for the deep blue sea. Taking first one
+18:36:04.488752:440/1983.Found 128 results for Rush. Taking first one
+18:36:06.023840:441/1983.Found 3 results for Prince of the City. Taking first one
+18:36:07.265911:442/1983.Found 13 results for Leviathan. Taking first one
+18:36:08.521983:443/1983.Found 3 results for The Phantom Carriage. Taking first one
+18:36:09.851059:444/1983.Found 1 results for Last action hero. Taking first one
+18:36:11.119131:445/1983.Found 1 results for End of watch. Taking first one
+18:36:12.424206:446/1983.Found 12 results for Montage. Taking first one
+18:36:13.668277:447/1983.Found 8 results for Contagion. Taking first one
+18:36:15.296370:448/1983.Found 3 results for Winter Sleep. Taking first one
+18:36:16.591444:449/1983.Found 1 results for Within our gates. Taking first one
+18:36:17.012468:40 requests reached. Pausing 10 sec
+18:36:27.873090:450/1983.Found 4 results for Evil Dead II. Taking first one
+18:36:29.159163:451/1983.Found 6 results for Slacker. Taking first one
+18:36:30.422235:452/1983.Found 3 results for Army of darkness. Taking first one
+18:36:31.741311:453/1983.Found 34 results for Evil Dead. Taking first one
+18:36:33.004383:454/1983.Found 3 results for Women in love. Taking first one
+18:36:34.260455:455/1983.Found 1 results for Suzaku. Taking first one
+18:36:35.535528:456/1983.Found 21 results for Occident. Taking first one
+18:36:36.815601:457/1983.Found 4 results for Grizzly man. Taking first one
+18:36:38.131676:458/1983.Found 1 results for Only lovers left alive. Taking first one
+18:36:39.380748:459/1983.Found 1 results for De bon matin. Taking first one
+18:36:40.715824:460/1983.Found 3 results for Equilibrium. Taking first one
+18:36:41.965896:461/1983.Found 6 results for Battle Royale. Taking first one
+18:36:43.233968:462/1983.Found 2 results for Saving private Ryan. Taking first one
+18:36:44.080017:40 requests reached. Pausing 10 sec
+18:36:54.525614:463/1983.Found 1 results for Tucker and Dale vs. Evil. Taking first one
+18:36:55.807687:464/1983.Found 3 results for Black Coal. Taking first one
+18:36:57.069760:465/1983.Found 1 results for School of Rock. Taking first one
+18:36:58.607847:466/1983.Found 10 results for Gone Girl. Taking first one
+18:36:59.947924:467/1983.Found 2 results for Way down east. Taking first one
+18:37:01.253999:468/1983.Found 3 results for Farinelli. Taking first one
+18:37:02.559073:469/1983.Found 29 results for Elevator. Taking first one
+18:37:04.067160:470/1983.Found 8 results for Caravaggio. Taking first one
+18:37:05.317231:471/1983.Found 1498 results for Super. Taking first one
+18:37:06.553302:472/1983.Found 6 results for Into the white. Taking first one
+18:37:07.726369:473/1983.Found 2 results for Iluminacja. Taking first one
+18:37:08.936438:474/1983.Found 2 results for Die Hard 2. Taking first one
+18:37:10.129506:475/1983.Found 1 results for Deux jours, une nuit. Taking first one
+18:37:11.475583:476/1983.Found 2 results for Gasherbrum. Taking first one
+18:37:11.475583:40 requests reached. Pausing 10 sec
+18:37:22.702226:477/1983.Found 1 results for De rouille et d'os. Taking first one
+18:37:23.936296:478/1983.Found 5 results for beyond the hills. Taking first one
+18:37:25.135365:479/1983.Found 14 results for Tema. Taking first one
+18:37:26.449440:480/1983.Found 1 results for the berlin file. Taking first one
+18:37:27.715512:481/1983.Found 1 results for Child's pose. Taking first one
+18:37:28.954583:482/1983.Found 14 results for Under the skin. Taking first one
+18:37:30.144651:483/1983.Found 2 results for The best offer. Taking first one
+18:37:31.400723:484/1983.Failed. Found no results for Broken Blossoms or The Yellow Man and the Girl
+18:37:31.794746:485/1983.Found 1 results for Ice Age: Continental Drift. Taking first one
+18:37:33.034817:486/1983.Found 1 results for the lunchbox. Taking first one
+18:37:34.242886:487/1983.Found 4 results for california dreamin'. Taking first one
+18:37:35.458955:488/1983.Found 1 results for A scanner darkly. Taking first one
+18:37:36.643023:489/1983.Found 4 results for Gantz. Taking first one
+18:37:38.044103:490/1983.Found 201 results for La terre. Taking first one
+18:37:38.044103:40 requests reached. Pausing 10 sec
+18:37:49.290746:491/1983.Found 2 results for As above, so below. Taking first one
+18:37:50.523817:492/1983.Found 2 results for 28 days later. Taking first one
+18:37:51.713885:493/1983.Found 2 results for Die Hard 3. Taking first one
+18:37:52.934955:494/1983.Found 1 results for Tuesday after christmas. Taking first one
+18:37:54.174026:495/1983.Found 13 results for Fist of legend. Taking first one
+18:37:56.403153:496/1983.Found 1 results for A Dirty Carnival. Taking first one
+18:37:57.602222:497/1983.Found 70 results for Traffic. Taking first one
+18:37:58.828292:498/1983.Found 1 results for The Paper Will Be Blue. Taking first one
+18:38:00.101365:499/1983.Found 91 results for New World. Taking first one
+18:38:01.303433:500/1983.Found 314 results for The beyond. Taking first one
+18:38:02.544504:501/1983.Found 3 results for Guardians of the galaxy. Taking first one
+18:38:04.261603:502/1983.Found 9 results for Interstellar. Taking first one
+18:38:05.501674:503/1983.Found 58 results for Die Hard. Taking first one
+18:38:05.918697:40 requests reached. Pausing 10 sec
+18:38:16.757317:504/1983.Found 1 results for 12:08 East of Bucharest. Taking first one
+18:38:18.048391:505/1983.Found 15 results for King of kong. Taking first one
+18:38:19.315464:506/1983.Found 3 results for Wreck-it Ralph. Taking first one
+18:38:20.566535:507/1983.Found 16 results for Blood Island. Taking first one
+18:38:21.852609:508/1983.Found 123 results for Babe. Taking first one
+18:38:23.097680:509/1983.Found 7 results for Stargate. Taking first one
+18:38:24.344751:510/1983.Found 2 results for Edge of tomorrow. Taking first one
+18:38:25.665827:511/1983.Found 98 results for Titanic. Taking first one
+18:38:26.927899:512/1983.Found 31 results for Avatar. Taking first one
+18:38:28.229974:513/1983.Found 19 results for Cube. Taking first one
+18:38:29.482045:514/1983.Found 1 results for Pee Wee's Big Adventure. Taking first one
+18:38:30.768119:515/1983.Found 249 results for Monsters. Taking first one
+18:38:32.025191:516/1983.Found 2 results for Alien resurrection. Taking first one
+18:38:32.840237:40 requests reached. Pausing 10 sec
+18:38:43.271834:517/1983.Found 2 results for The secret life of walter mitty. Taking first one
+18:38:44.535906:518/1983.Found 1 results for Pontypool. Taking first one
+18:38:45.792978:519/1983.Found 148 results for Hook. Taking first one
+18:38:47.051050:520/1983.Found 3 results for Jumanji. Taking first one
+18:38:48.296121:521/1983.Found 1 results for 36th precinct. Taking first one
+18:38:49.582195:522/1983.Found 39 results for Duma. Taking first one
+18:38:50.853268:523/1983.Found 4 results for Transcendence. Taking first one
+18:38:52.422357:524/1983.Found 1 results for Rise of the planet of the apes. Taking first one
+18:38:53.692430:525/1983.Found 1 results for Dawn of the planet of the apes. Taking first one
+18:38:54.935501:526/1983.Found 1 results for Sleep Dealer. Taking first one
+18:38:56.172572:527/1983.Found 28 results for Lassie. Taking first one
+18:38:57.414643:528/1983.Found 1 results for Secondhand lions. Taking first one
+18:38:58.683715:529/1983.Found 4096 results for Her. Taking first one
+18:38:59.924786:530/1983.Found 10 results for Dawn of the dead. Taking first one
+18:38:59.924786:40 requests reached. Pausing 10 sec
+18:39:11.133428:531/1983.Found 1 results for Flight of the navigator. Taking first one
+18:39:12.359498:532/1983.Found 17 results for Dark Star. Taking first one
+18:39:13.563567:533/1983.Found 22 results for War of the worlds. Taking first one
+18:39:14.775636:534/1983.Found 2 results for The wolfpack. Taking first one
+18:39:15.961704:535/1983.Found 1 results for Appleseed alpha. Taking first one
+18:39:17.275779:536/1983.Found 16 results for Akira. Taking first one
+18:39:18.451846:537/1983.Found 1 results for Day of the Wacko. Taking first one
+18:39:19.678916:538/1983.Found 8 results for Lego movie. Taking first one
+18:39:20.949989:539/1983.Found 1 results for The Grand Budapest Hotel. Taking first one
+18:39:22.181059:540/1983.Found 3 results for Goonies. Taking first one
+18:39:23.398129:541/1983.Found 2 results for Angels With Dirty Faces. Taking first one
+18:39:24.580197:542/1983.Found 27 results for Jimmy P.. Taking first one
+18:39:25.752264:543/1983.Found 39 results for Matador. Taking first one
+18:39:26.175288:40 requests reached. Pausing 10 sec
+18:39:36.983906:544/1983.Found 1 results for We Need to Talk About Kevin. Taking first one
+18:39:38.270980:545/1983.Found 1 results for Hot fuzz. Taking first one
+18:39:39.455047:546/1983.Found 8 results for Despicable 2. Taking first one
+18:39:40.676117:547/1983.Found 572 results for Warrior. Taking first one
+18:39:41.875186:548/1983.Found 3 results for Grave Of The Fireflies. Taking first one
+18:39:43.042253:549/1983.Found 1 results for Un amour de jeunesse. Taking first one
+18:39:44.237321:550/1983.Found 177 results for ida. Taking first one
+18:39:45.430389:551/1983.Found 3 results for Elephant Man. Taking first one
+18:39:46.620457:552/1983.Found 3 results for return to oz. Taking first one
+18:39:47.814526:553/1983.Found 7 results for How to train your dragon. Taking first one
+18:39:49.014594:554/1983.Found 1 results for The belly of an architect. Taking first one
+18:39:50.219663:555/1983.Found 1 results for Killer Joe. Taking first one
+18:39:51.422732:556/1983.Found 4 results for Dragonheart. Taking first one
+18:39:52.225778:40 requests reached. Pausing 10 sec
+18:40:02.618372:557/1983.Found 1 results for Shotgun Stories. Taking first one
+18:40:03.833442:558/1983.Found 9 results for Like father like son. Taking first one
+18:40:05.338528:559/1983.Found 1 results for Edward Scissorhands. Taking first one
+18:40:06.588599:560/1983.Found 1 results for The Unbearable Lightness of Being. Taking first one
+18:40:07.811669:561/1983.Found 32 results for Jaws. Taking first one
+18:40:08.983736:562/1983.Found 2 results for The Good, the Bad and the Ugly. Taking first one
+18:40:10.467821:563/1983.Found 3 results for Le feu follet. Taking first one
+18:40:11.795897:564/1983.Found 1 results for Dallas Buyers Club. Taking first one
+18:40:13.028968:565/1983.Found 2 results for Cloak and dagger. Taking first one
+18:40:14.312041:566/1983.Found 152 results for Confessions. Taking first one
+18:40:15.586114:567/1983.Found 1 results for Captain Phillips. Taking first one
+18:40:16.884188:568/1983.Found 5 results for La guerre des boutons. Taking first one
+18:40:18.155261:569/1983.Found 2 results for Indiana Jones and the Last Crusade. Taking first one
+18:40:19.433334:570/1983.Found 2 results for A Woman Under the Influence. Taking first one
+18:40:19.433334:40 requests reached. Pausing 10 sec
+18:40:30.747981:571/1983.Found 3 results for Space Pirate Captain Harlock. Taking first one
+18:40:32.014054:572/1983.Found 3 results for The great beauty. Taking first one
+18:40:33.245124:573/1983.Found 1 results for snowpiercer. Taking first one
+18:40:34.497196:574/1983.Found 1 results for Shokuzai. Taking first one
+18:40:35.748267:575/1983.Found 1 results for Dances with wolves. Taking first one
+18:40:36.998339:576/1983.Found 6 results for Cartouche. Taking first one
+18:40:38.243410:577/1983.Found 7 results for King of comedy. Taking first one
+18:40:39.748496:578/1983.Found 2 results for Intouchables. Taking first one
+18:40:41.010568:579/1983.Found 2 results for Layer Cake. Taking first one
+18:40:42.249639:580/1983.Found 2 results for Short term 12. Taking first one
+18:40:44.068743:581/1983.Found 1 results for Manhattan murder mystery. Taking first one
+18:40:45.328815:582/1983.Found 27 results for Promised land. Taking first one
+18:40:46.618889:583/1983.Found 2 results for The wolf of wall street. Taking first one
+18:40:47.123918:40 requests reached. Pausing 10 sec
+18:40:57.946537:584/1983.Found 1 results for A propos d'Elly. Taking first one
+18:40:59.257612:585/1983.Found 251 results for Dune. Taking first one
+18:41:00.524684:586/1983.Found 31 results for Le passé. Taking first one
+18:41:01.771756:587/1983.Found 3 results for All is lost. Taking first one
+18:41:03.052829:588/1983.Found 1 results for La vie d'adèle. Taking first one
+18:41:04.279899:589/1983.Found 1 results for 12 Years a Slave. Taking first one
+18:41:05.648977:590/1983.Found 1 results for Chromosome 3. Taking first one
+18:41:06.896049:591/1983.Found 13 results for Life of pi. Taking first one
+18:41:08.176122:592/1983.Found 24 results for Night of the Living Dead. Taking first one
+18:41:09.444194:593/1983.Found 2 results for Cool runnings. Taking first one
+18:41:10.946280:594/1983.Found 4 results for The Black Stallion. Taking first one
+18:41:12.170350:595/1983.Found 13 results for About time. Taking first one
+18:41:13.366419:596/1983.Found 1 results for Silver Linings Playbook. Taking first one
+18:41:14.201467:40 requests reached. Pausing 10 sec
+18:41:24.605062:597/1983.Found 6 results for The transporter. Taking first one
+18:41:25.805130:598/1983.Found 1 results for the fifth element. Taking first one
+18:41:27.014199:599/1983.Found 6 results for The world's end. Taking first one
+18:41:28.227269:600/1983.Found 6 results for Magic Mike. Taking first one
+18:41:29.470340:601/1983.Found 6 results for Sweeney Todd: The Demon Barber of Fleet Street. Taking first one
+18:41:30.668408:602/1983.Found 3 results for Germinal. Taking first one
+18:41:31.927480:603/1983.Found 1 results for Truman Show. Taking first one
+18:41:33.131549:604/1983.Found 1745 results for Home. Taking first one
+18:41:34.367620:605/1983.Found 189 results for Mud. Taking first one
+18:41:35.691696:606/1983.Found 22 results for Stardust. Taking first one
+18:41:37.009771:607/1983.Found 1 results for The place beyond the pines. Taking first one
+18:41:38.261843:608/1983.Found 3 results for Deathwatch. Taking first one
+18:41:39.503914:609/1983.Found 4 results for Miracle On 34th Street. Taking first one
+18:41:41.080004:610/1983.Found 44 results for Prisoners. Taking first one
+18:41:41.080004:40 requests reached. Pausing 10 sec
+18:41:52.304646:611/1983.Found 9 results for The importance of being earnest. Taking first one
+18:41:53.541717:612/1983.Found 720 results for Amour. Taking first one
+18:41:54.779788:613/1983.Found 200 results for The thing. Taking first one
+18:41:56.036859:614/1983.Found 1 results for Eloise at Christmastime. Taking first one
+18:41:57.270930:615/1983.Found 37 results for Diabolique. Taking first one
+18:41:58.480999:616/1983.Found 5 results for Kiss Kiss Bang Bang. Taking first one
+18:41:59.742071:617/1983.Failed. Found no results for Le bonheur des dames
+18:42:00.171096:618/1983.Found 2 results for Le diner de cons. Taking first one
+18:42:01.376165:619/1983.Found 1 results for My Neighbor Totoro. Taking first one
+18:42:02.622236:620/1983.Found 25 results for The yakuza. Taking first one
+18:42:03.926311:621/1983.Found 2 results for Before sunset. Taking first one
+18:42:05.130380:622/1983.Found 4 results for Before midnight. Taking first one
+18:42:06.318448:623/1983.Found 5 results for Before sunrise. Taking first one
+18:42:07.533517:624/1983.Found 1 results for Ender's game. Taking first one
+18:42:07.533517:40 requests reached. Pausing 10 sec
+18:42:19.034175:625/1983.Found 2 results for Gandahar. Taking first one
+18:42:20.276246:626/1983.Found 8 results for Ordinary people. Taking first one
+18:42:21.551319:627/1983.Found 1 results for Léon Morin, prêtre. Taking first one
+18:42:22.773389:628/1983.Found 2 results for the war lord. Taking first one
+18:42:23.986458:629/1983.Found 9 results for Vanishing point. Taking first one
+18:42:25.250530:630/1983.Found 5 results for Dark Crystal. Taking first one
+18:42:26.438598:631/1983.Found 6 results for The conjuring. Taking first one
+18:42:27.650668:632/1983.Found 48 results for Gravity. Taking first one
+18:42:28.915740:633/1983.Found 3 results for Wargames. Taking first one
+18:42:30.110808:634/1983.Found 58 results for Cabaret. Taking first one
+18:42:31.299876:635/1983.Found 54 results for Oliver!. Taking first one
+18:42:32.509946:636/1983.Found 4 results for Ironclad. Taking first one
+18:42:33.755017:637/1983.Found 29 results for The Three Musketeers. Taking first one
+18:42:35.173098:40 requests reached. Pausing 10 sec
+18:42:45.991717:638/1983.Found 32 results for Robinson Crusoe. Taking first one
+18:42:47.224787:639/1983.Found 24 results for The ten commandments. Taking first one
+18:42:48.460858:640/1983.Found 1 results for Batman begins. Taking first one
+18:42:49.672927:641/1983.Found 9 results for World War Z. Taking first one
+18:42:50.865995:642/1983.Found 3 results for 20000 Leagues Under the Sea. Taking first one
+18:42:52.136068:643/1983.Found 1 results for les derniers jours d'emmanuel kant. Taking first one
+18:42:53.360138:644/1983.Found 11 results for Men in black. Taking first one
+18:42:54.781219:645/1983.Found 2 results for The curse of the werewolf. Taking first one
+18:42:56.011290:646/1983.Found 4 results for Dog bite dog. Taking first one
+18:42:57.228359:647/1983.Found 71 results for Hanna. Taking first one
+18:42:58.782448:648/1983.Found 4 results for On the Waterfront. Taking first one
+18:42:59.981517:649/1983.Found 3 results for Adam's Rib. Taking first one
+18:43:01.216588:650/1983.Found 1 results for The Bad Lieutenant: Port of Call - New Orleans. Taking first one
+18:43:02.032634:40 requests reached. Pausing 10 sec
+18:43:12.427229:651/1983.Found 2 results for That Darn Cat!. Taking first one
+18:43:13.648299:652/1983.Found 1 results for Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles. Taking first one
+18:43:14.848367:653/1983.Found 5 results for The Grandmaster. Taking first one
+18:43:16.030435:654/1983.Found 3 results for Slither. Taking first one
+18:43:17.267506:655/1983.Found 1 results for Women on the Verge of a Nervous Breakdown. Taking first one
+18:43:18.523577:656/1983.Found 3 results for Elysium. Taking first one
+18:43:19.763648:657/1983.Found 6 results for The miracle worker. Taking first one
+18:43:20.945716:658/1983.Found 68 results for The Cure. Taking first one
+18:43:22.191787:659/1983.Found 1 results for À Nos Amours. Taking first one
+18:43:23.451859:660/1983.Found 27 results for Troy. Taking first one
+18:43:24.698931:661/1983.Found 1 results for Tokyo Sonata. Taking first one
+18:43:25.895999:662/1983.Found 2 results for Jack Reacher. Taking first one
+18:43:27.120069:663/1983.Found 2 results for Model Shop. Taking first one
+18:43:28.345139:664/1983.Found 28 results for Oblivion. Taking first one
+18:43:28.345139:40 requests reached. Pausing 10 sec
+18:43:40.550837:665/1983.Found 1 results for Tears of the Black Tiger. Taking first one
+18:43:41.798909:666/1983.Found 9 results for Another Woman. Taking first one
+18:43:42.981976:667/1983.Found 32 results for Pulse. Taking first one
+18:43:44.205046:668/1983.Found 264 results for Giant. Taking first one
+18:43:45.430116:669/1983.Found 210 results for Missing. Taking first one
+18:43:46.646186:670/1983.Found 4 results for Prison on Fire. Taking first one
+18:43:47.857255:671/1983.Found 2 results for What we do in the shadows. Taking first one
+18:43:49.058324:672/1983.Found 18 results for Stoker. Taking first one
+18:43:50.267393:673/1983.Found 1 results for Running on Karma. Taking first one
+18:43:51.486463:674/1983.Found 1 results for Encounters at the End of the World. Taking first one
+18:43:53.707590:675/1983.Found 2 results for Only God Forgives. Taking first one
+18:43:54.910659:676/1983.Found 7 results for Jurassic Park. Taking first one
+18:43:56.093726:677/1983.Found 1 results for Cloud Atlas. Taking first one
+18:43:56.525751:40 requests reached. Pausing 10 sec
+18:44:07.322369:678/1983.Found 1 results for Peppermint Candy. Taking first one
+18:44:08.546439:679/1983.Found 259 results for Chronicle. Taking first one
+18:44:09.746507:680/1983.Found 13 results for Monika. Taking first one
+18:44:10.930575:681/1983.Found 4 results for Pacific Rim. Taking first one
+18:44:12.170646:682/1983.Found 2 results for The Given Word. Taking first one
+18:44:13.391716:683/1983.Found 14 results for Great expectations. Taking first one
+18:44:14.605785:684/1983.Found 1 results for Veronika Voss. Taking first one
+18:44:16.093870:685/1983.Found 2 results for Good Bye Lenin!. Taking first one
+18:44:17.275938:686/1983.Found 20 results for The wrestler. Taking first one
+18:44:18.515009:687/1983.Found 1 results for Darby O'Gill and the Little People. Taking first one
+18:44:19.737079:688/1983.Found 2 results for The Man Who Laughs. Taking first one
+18:44:21.011151:689/1983.Found 3 results for Dredd. Taking first one
+18:44:22.274224:690/1983.Found 2 results for Jeux Interdits . Taking first one
+18:44:23.120272:40 requests reached. Pausing 10 sec
+18:44:33.641874:691/1983.Found 2 results for Hour of the Wolf. Taking first one
+18:44:34.956949:692/1983.Found 69 results for Lincoln. Taking first one
+18:44:36.215021:693/1983.Found 45 results for Le trou. Taking first one
+18:44:37.459092:694/1983.Found 2 results for Et Dieu... créa la femme. Taking first one
+18:44:38.703163:695/1983.Found 2 results for Fanny and alexander. Taking first one
+18:44:39.955235:696/1983.Found 6 results for Stand by me. Taking first one
+18:44:41.205307:697/1983.Found 1 results for Repo! The Genetic Opera. Taking first one
+18:44:42.484380:698/1983.Found 1 results for The Wind That Shakes The Barley. Taking first one
+18:44:44.103472:699/1983.Found 2 results for Little fugitive. Taking first one
+18:44:45.373545:700/1983.Found 153 results for Wanted. Taking first one
+18:44:46.611616:701/1983.Found 3 results for The Man Who Wasn't There. Taking first one
+18:44:47.894689:702/1983.Found 9 results for The incredible hulk. Taking first one
+18:44:49.147761:703/1983.Found 1 results for L'ours et la poupée. Taking first one
+18:44:50.443835:704/1983.Found 3 results for The Lady Vanishes. Taking first one
+18:44:50.443835:40 requests reached. Pausing 10 sec
+18:45:01.809485:705/1983.Found 34 results for Munich. Taking first one
+18:45:03.499582:706/1983.Found 6 results for Captain America: First Avenger. Taking first one
+18:45:04.797656:707/1983.Found 107 results for Thor. Taking first one
+18:45:06.039727:708/1983.Found 2 results for Krull. Taking first one
+18:45:07.300799:709/1983.Found 2 results for The browning version. Taking first one
+18:45:08.565871:710/1983.Found 2 results for Stake Land. Taking first one
+18:45:09.877947:711/1983.Failed. Found no results for Hori Smoku Sailor Jerry: The Life of Norman K. Collins
+18:45:10.312971:712/1983.Found 2 results for Jeremiah Johnson. Taking first one
+18:45:11.544042:713/1983.Found 3 results for River of No Return. Taking first one
+18:45:12.797113:714/1983.Found 2 results for the Four Horsemen of the Apocalypse. Taking first one
+18:45:14.062186:715/1983.Found 3 results for United 93. Taking first one
+18:45:15.369261:716/1983.Found 1519 results for Big. Taking first one
+18:45:16.627333:717/1983.Found 2 results for 3:10 to Yuma. Taking first one
+18:45:18.634447:718/1983.Found 3 results for The Adventures of Baron Munchausen. Taking first one
+18:45:18.634447:40 requests reached. Pausing 10 sec
+18:45:30.378119:719/1983.Found 1 results for Muriel ou le temps d'un retour. Taking first one
+18:45:31.671193:720/1983.Found 3 results for Quai des Orfèvres. Taking first one
+18:45:32.920264:721/1983.Found 1 results for une chambre en ville. Taking first one
+18:45:34.175336:722/1983.Found 1 results for Detective Bureau 2-3: Go to Hell Bastards. Taking first one
+18:45:36.536471:723/1983.Found 1 results for Rogue Trader. Taking first one
+18:45:37.860547:724/1983.Found 23 results for Black Sheep. Taking first one
+18:45:39.163622:725/1983.Found 1 results for zero dark thirty. Taking first one
+18:45:40.453695:726/1983.Found 254 results for Invasion. Taking first one
+18:45:42.716825:727/1983.Found 1 results for The 7th Voyage of Sinbad. Taking first one
+18:45:43.971897:728/1983.Found 61 results for La danse. Taking first one
+18:45:45.273971:729/1983.Found 88 results for Priest. Taking first one
+18:45:46.552044:730/1983.Found 4 results for Where the wild things are. Taking first one
+18:45:47.846118:731/1983.Found 1 results for La baie des anges. Taking first one
+18:45:48.287143:40 requests reached. Pausing 10 sec
+18:45:59.094762:732/1983.Found 1 results for Laurence anyways. Taking first one
+18:46:00.354834:733/1983.Found 1 results for Blackbeard's Ghost. Taking first one
+18:46:01.616906:734/1983.Found 2 results for Straw dogs. Taking first one
+18:46:02.928981:735/1983.Found 1 results for The Great Ecstasy of the Woodcarver Steiner. Taking first one
+18:46:04.259057:736/1983.Found 1 results for City of life and death. Taking first one
+18:46:05.574132:737/1983.Found 1 results for The Incredible Shrinking Man. Taking first one
+18:46:06.822204:738/1983.Found 1 results for The Devil and Daniel Webster. Taking first one
+18:46:08.096276:739/1983.Found 8 results for Adaptation. Taking first one
+18:46:09.349348:740/1983.Failed. Found no results for Being John Malkovitch
+18:46:09.787373:741/1983.Found 1 results for Trans-Europ-Express. Taking first one
+18:46:11.033444:742/1983.Found 1 results for My Son, My Son, What Have Ye Done . Taking first one
+18:46:12.279516:743/1983.Found 18 results for Submarino. Taking first one
+18:46:13.573590:744/1983.Found 1 results for Cave Of Forgotten Dreams. Taking first one
+18:46:14.846663:745/1983.Found 1 results for Oncle Boonmee (celui qui se souvient de ses vies antérieures). Taking first one
+18:46:15.277687:40 requests reached. Pausing 10 sec
+18:46:26.073305:746/1983.Failed. Found no results for Être et devenir
+18:46:26.463327:747/1983.Found 3 results for Strange days. Taking first one
+18:46:27.620393:748/1983.Found 1 results for L'anglaise et le duc. Taking first one
+18:46:28.869465:749/1983.Found 1 results for Django unchained. Taking first one
+18:46:30.050532:750/1983.Found 3 results for Phase IV. Taking first one
+18:46:31.308604:751/1983.Found 24 results for Jagten. Taking first one
+18:46:32.532674:752/1983.Found 1 results for La fille coupée en deux. Taking first one
+18:46:33.747744:753/1983.Found 91 results for Labyrinth. Taking first one
+18:46:34.964813:754/1983.Found 3 results for Symbiopsychotaxiplasm. Taking first one
+18:46:36.164882:755/1983.Found 15 results for Spartacus. Taking first one
+18:46:37.368951:756/1983.Found 18 results for Kapo. Taking first one
+18:46:38.569019:757/1983.Found 1 results for The Left Handed Gun. Taking first one
+18:46:39.770088:758/1983.Found 1 results for A dangerous method. Taking first one
+18:46:41.013159:759/1983.Found 16 results for Patton. Taking first one
+18:46:41.418182:40 requests reached. Pausing 10 sec
+18:46:52.217800:760/1983.Found 73 results for X-men. Taking first one
+18:46:53.461871:761/1983.Found 18 results for X2. Taking first one
+18:46:54.638939:762/1983.Found 1 results for X-Men: The Last Stand. Taking first one
+18:46:56.177026:763/1983.Found 149 results for Gloria. Taking first one
+18:46:58.409154:764/1983.Found 1 results for Glengarry. Taking first one
+18:46:59.582221:765/1983.Found 196 results for Faces. Taking first one
+18:47:00.846294:766/1983.Found 2 results for The naked spur. Taking first one
+18:47:02.342379:767/1983.Found 9 results for Constantine. Taking first one
+18:47:03.525447:768/1983.Found 59 results for Husbands. Taking first one
+18:47:04.792519:769/1983.Found 23 results for Music box. Taking first one
+18:47:06.387610:770/1983.Found 2 results for silent running. Taking first one
+18:47:07.590679:771/1983.Found 2 results for Clash by night. Taking first one
+18:47:09.790805:772/1983.Found 15 results for Ben-Hur. Taking first one
+18:47:10.580850:40 requests reached. Pausing 10 sec
+18:47:20.977445:773/1983.Found 254 results for Martin. Taking first one
+18:47:22.328522:774/1983.Found 5 results for Judex. Taking first one
+18:47:23.605595:775/1983.Found 1 results for Holy Motors. Taking first one
+18:47:24.869668:776/1983.Found 65 results for Rope. Taking first one
+18:47:26.159741:777/1983.Found 1 results for The Hobbit: An Unexpected Journey . Taking first one
+18:47:28.605881:778/1983.Found 9 results for Rurouni Kenshin. Taking first one
+18:47:29.864953:779/1983.Found 2 results for Tinker Tailor Soldier Spy . Taking first one
+18:47:31.185029:780/1983.Found 1 results for The purple rose of cairo. Taking first one
+18:47:32.481103:781/1983.Found 29 results for The driver. Taking first one
+18:47:33.755176:782/1983.Found 1 results for Escape from Alcatraz. Taking first one
+18:47:35.044250:783/1983.Found 8 results for Breathless. Taking first one
+18:47:36.283320:784/1983.Found 1 results for A History of Violence. Taking first one
+18:47:38.558451:785/1983.Found 1 results for the thirteenth floor. Taking first one
+18:47:39.824523:786/1983.Found 4 results for Mystery Train. Taking first one
+18:47:39.824523:40 requests reached. Pausing 10 sec
+18:47:51.126169:787/1983.Found 37 results for Carnage. Taking first one
+18:47:52.943273:788/1983.Failed. Found no results for Lord of the rings trilogy
+18:47:53.378298:789/1983.Found 2 results for Looper. Taking first one
+18:47:54.645371:790/1983.Found 8 results for Karate Kid. Taking first one
+18:47:55.885442:791/1983.Found 1 results for L'eclisse. Taking first one
+18:47:57.145514:792/1983.Found 1 results for The Marriage of Maria Braun. Taking first one
+18:47:59.425644:793/1983.Found 5 results for Gremlins. Taking first one
+18:48:00.729719:794/1983.Found 1 results for Ali: Fear Eats the Soul. Taking first one
+18:48:01.990791:795/1983.Found 1 results for Ascenseur pour l'échafaud. Taking first one
+18:48:03.221861:796/1983.Found 1 results for Mission: Impossible - Ghost Protocol. Taking first one
+18:48:04.512935:797/1983.Found 1 results for Le dernier metro. Taking first one
+18:48:05.767007:798/1983.Found 2 results for Spaceballs. Taking first one
+18:48:07.070081:799/1983.Found 33 results for Lolita. Taking first one
+18:48:08.342154:800/1983.Found 1 results for Time regained. Taking first one
+18:48:08.342154:40 requests reached. Pausing 10 sec
+18:48:20.238835:801/1983.Found 1 results for Tokyo godfathers. Taking first one
+18:48:21.608913:802/1983.Found 1 results for The limits of control. Taking first one
+18:48:22.919988:803/1983.Found 2 results for The Postman Always Rings Twice . Taking first one
+18:48:24.914102:804/1983.Found 10 results for Overboard. Taking first one
+18:48:26.170174:805/1983.Found 3 results for The sea inside. Taking first one
+18:48:27.399244:806/1983.Found 33 results for Hugo. Taking first one
+18:48:28.596313:807/1983.Found 128 results for dolls. Taking first one
+18:48:29.863385:808/1983.Found 3 results for kiss me deadly. Taking first one
+18:48:31.047453:809/1983.Found 4 results for Lawrence of arabia. Taking first one
+18:48:32.274523:810/1983.Found 1 results for Peaceful warrior. Taking first one
+18:48:33.481592:811/1983.Found 1 results for Life without principle. Taking first one
+18:48:34.682661:812/1983.Found 2 results for the cremator. Taking first one
+18:48:35.902730:813/1983.Found 6 results for a Chinese Ghost Story. Taking first one
+18:48:36.311754:40 requests reached. Pausing 10 sec
+18:48:47.110372:814/1983.Found 6 results for L'aveu. Taking first one
+18:48:48.339442:815/1983.Found 1 results for Le couperet. Taking first one
+18:48:49.539510:816/1983.Found 2 results for Black Orpheus. Taking first one
+18:48:50.743579:817/1983.Found 10 results for Gerry. Taking first one
+18:48:51.960649:818/1983.Found 2 results for Le prénom. Taking first one
+18:48:53.163718:819/1983.Found 1 results for I cento passi. Taking first one
+18:48:54.409789:820/1983.Found 2 results for Monty Python and the Holy Grail. Taking first one
+18:48:55.609858:821/1983.Found 4 results for skyfall. Taking first one
+18:48:56.783925:822/1983.Found 186 results for the hill. Taking first one
+18:48:57.976993:823/1983.Found 1 results for Na Srebrnym Globie. Taking first one
+18:48:59.535082:824/1983.Found 3 results for The 36th Chamber of Shaolin. Taking first one
+18:49:00.746151:825/1983.Found 1 results for La cité des enfants perdus. Taking first one
+18:49:01.917218:826/1983.Found 16 results for Prometheus. Taking first one
+18:49:02.755266:40 requests reached. Pausing 10 sec
+18:49:13.166862:827/1983.Found 1 results for The book of eli. Taking first one
+18:49:14.369931:828/1983.Found 1 results for The Kid with a Bike. Taking first one
+18:49:15.571999:829/1983.Found 22 results for The avengers. Taking first one
+18:49:17.080086:830/1983.Found 10 results for wesele. Taking first one
+18:49:18.258153:831/1983.Found 135 results for the killing. Taking first one
+18:49:19.451221:832/1983.Found 34 results for Battleship. Taking first one
+18:49:20.651290:833/1983.Found 27 results for Super 8. Taking first one
+18:49:22.128374:834/1983.Found 4 results for the cabin in the woods. Taking first one
+18:49:23.331443:835/1983.Found 2 results for szyfry. Taking first one
+18:49:24.546513:836/1983.Found 1 results for the bourne legacy. Taking first one
+18:49:26.087601:837/1983.Found 23 results for The conversation. Taking first one
+18:49:27.357674:838/1983.Found 9 results for the horde. Taking first one
+18:49:28.617746:839/1983.Found 2 results for The Thomas Crown Affair. Taking first one
+18:49:30.427849:840/1983.Found 5 results for kick-ass. Taking first one
+18:49:30.427849:40 requests reached. Pausing 10 sec
+18:49:41.674492:841/1983.Failed. Found no results for Mr.Arkadin
+18:49:42.085516:842/1983.Found 5 results for the bridge on the river kwai. Taking first one
+18:49:43.371589:843/1983.Found 5 results for the insider. Taking first one
+18:49:44.648663:844/1983.Found 1 results for Abraham Valley. Taking first one
+18:49:46.053743:845/1983.Found 1 results for Sherman's march. Taking first one
+18:49:47.313815:846/1983.Found 1 results for whatever works. Taking first one
+18:49:48.830902:847/1983.Found 4 results for The Man from Nowhere. Taking first one
+18:49:50.161978:848/1983.Found 1 results for The Raid: Redemption. Taking first one
+18:49:51.477053:849/1983.Found 5 results for the revenant. Taking first one
+18:49:52.801129:850/1983.Found 1 results for We Have a Pope. Taking first one
+18:49:54.321216:851/1983.Found 3 results for Hellboy II: The Golden Army. Taking first one
+18:49:55.676293:852/1983.Found 1 results for the mutant chronicles. Taking first one
+18:49:56.956366:853/1983.Found 5 results for casino royale. Taking first one
+18:49:58.244440:854/1983.Found 80 results for Cowboys & Aliens. Taking first one
+18:49:58.244440:40 requests reached. Pausing 10 sec
+18:50:09.506084:855/1983.Found 5 results for fido. Taking first one
+18:50:10.759156:856/1983.Found 2 results for Indiana Jones and the Kingdom of the Crystal Skull. Taking first one
+18:50:12.943281:857/1983.Found 2 results for john carter. Taking first one
+18:50:14.254356:858/1983.Found 101 results for the warriors. Taking first one
+18:50:15.502427:859/1983.Found 1 results for I walked with a zombie. Taking first one
+18:50:16.759499:860/1983.Found 2 results for The dark knight rises. Taking first one
+18:50:18.126577:861/1983.Found 12 results for kill bill. Taking first one
+18:50:19.379649:862/1983.Found 1 results for Gunfight at the O.K. Corral. Taking first one
+18:50:20.627720:863/1983.Found 15 results for hellraiser. Taking first one
+18:50:21.896793:864/1983.Found 8 results for public enemies. Taking first one
+18:50:23.160865:865/1983.Found 6 results for terminator 2. Taking first one
+18:50:24.396936:866/1983.Found 4 results for the rocketeer. Taking first one
+18:50:25.738013:867/1983.Found 1 results for and justice for all. Taking first one
+18:50:26.161037:40 requests reached. Pausing 10 sec
+18:50:36.993656:868/1983.Found 41 results for terminator. Taking first one
+18:50:38.247728:869/1983.Failed. Found no results for tatooed life
+18:50:38.651751:870/1983.Found 2 results for le temps qui reste. Taking first one
+18:50:39.940825:871/1983.Found 20 results for tomboy. Taking first one
+18:50:41.243900:872/1983.Found 22 results for tintin. Taking first one
+18:50:42.508972:873/1983.Found 2 results for new police story. Taking first one
+18:50:43.772044:874/1983.Found 2 results for the machinist. Taking first one
+18:50:45.030116:875/1983.Found 3 results for the defiant ones. Taking first one
+18:50:46.299189:876/1983.Found 1 results for Die Frau im Mond. Taking first one
+18:50:47.582262:877/1983.Found 1 results for Money ball. Taking first one
+18:50:48.844334:878/1983.Found 1 results for the ides of march. Taking first one
+18:50:50.110407:879/1983.Found 8 results for bronson. Taking first one
+18:50:51.390480:880/1983.Found 6980 results for pi. Taking first one
+18:50:52.679554:881/1983.Found 4 results for the big heat. Taking first one
+18:50:53.127579:40 requests reached. Pausing 10 sec
+18:51:04.006201:882/1983.Found 1 results for Koyaanisqatsi. Taking first one
+18:51:05.307276:883/1983.Found 62 results for hunger. Taking first one
+18:51:06.603350:884/1983.Found 3 results for redline. Taking first one
+18:51:07.884423:885/1983.Found 2 results for Creature from the Black Lagoon. Taking first one
+18:51:10.146553:886/1983.Found 9 results for The way of the dragon. Taking first one
+18:51:11.409625:887/1983.Found 6 results for Starman. Taking first one
+18:51:12.694698:888/1983.Found 1 results for The 13 assassins. Taking first one
+18:51:13.960771:889/1983.Found 1 results for akahige. Taking first one
+18:51:15.251845:890/1983.Found 114 results for the artist. Taking first one
+18:51:16.510917:891/1983.Found 1 results for Simon of the Desert. Taking first one
+18:51:18.075006:892/1983.Found 1 results for adorable menteuse. Taking first one
+18:51:19.477086:893/1983.Found 1 results for two mules for sister sara. Taking first one
+18:51:20.772160:894/1983.Found 1 results for la piel que habito. Taking first one
+18:51:21.595208:40 requests reached. Pausing 10 sec
+18:51:32.287819:895/1983.Found 5 results for marnie. Taking first one
+18:51:35.004975:896/1983.Found 1 results for The Cranes are Flying. Taking first one
+18:51:37.471116:897/1983.Found 1 results for Les derniers jours du monde. Taking first one
+18:51:39.329222:898/1983.Found 2 results for Repulsion. Taking first one
+18:51:40.816307:899/1983.Found 8 results for il posto. Taking first one
+18:51:42.195386:900/1983.Found 43 results for detour. Taking first one
+18:51:43.433457:901/1983.Found 38 results for Rubber. Taking first one
+18:51:44.729531:902/1983.Found 2 results for Conte d'hiver. Taking first one
+18:51:45.989603:903/1983.Failed. Found no results for Startrek
+18:51:46.397626:904/1983.Found 1 results for Triumph of the Will. Taking first one
+18:51:48.005718:905/1983.Failed. Found no results for The girl with the dragon tatoo
+18:51:48.442743:906/1983.Found 1 results for Tykho moon. Taking first one
+18:51:49.988832:907/1983.Found 1 results for Polisse. Taking first one
+18:51:51.250904:908/1983.Found 1 results for l'exercice de l'état. Taking first one
+18:51:52.565979:909/1983.Found 3 results for Soom. Taking first one
+18:51:53.009004:40 requests reached. Pausing 10 sec
+18:52:03.882626:910/1983.Found 2 results for logan's run. Taking first one
+18:52:05.526720:911/1983.Found 1 results for take shelter. Taking first one
+18:52:06.774792:912/1983.Found 40 results for everest. Taking first one
+18:52:08.127869:913/1983.Found 1 results for rise of the planet of the apes. Taking first one
+18:52:09.416943:914/1983.Found 1 results for The last starfighter. Taking first one
+18:52:10.702016:915/1983.Failed. Found no results for Lord of the rings trilogy
+18:52:12.134098:916/1983.Found 20 results for Rebecca. Taking first one
+18:52:13.425172:917/1983.Found 2 results for get carter. Taking first one
+18:52:14.706245:918/1983.Found 20 results for Scrooge. Taking first one
+18:52:15.968317:919/1983.Found 1 results for days of heaven. Taking first one
+18:52:17.391399:920/1983.Found 2 results for african queen. Taking first one
+18:52:18.974489:921/1983.Found 114 results for sherlock holmes. Taking first one
+18:52:20.275564:922/1983.Found 1 results for La guerre est déclarée. Taking first one
+18:52:21.558637:923/1983.Found 1 results for ginger e fred. Taking first one
+18:52:21.991662:40 requests reached. Pausing 10 sec
+18:52:33.076296:924/1983.Failed. Found no results for Kumonosu jô
+18:52:33.501320:925/1983.Found 279 results for Drive. Taking first one
+18:52:34.788394:926/1983.Found 4 results for the man who fell to earth. Taking first one
+18:52:36.104469:927/1983.Found 232 results for Shaolin. Taking first one
+18:52:37.373542:928/1983.Found 1 results for Incendies. Taking first one
+18:52:38.621613:929/1983.Found 1 results for Olympia Part One: Festival of the Nations. Taking first one
+18:52:39.918687:930/1983.Found 1 results for Herz aus Glas. Taking first one
+18:52:41.315767:931/1983.Found 352 results for Michael. Taking first one
+18:52:42.595841:932/1983.Found 5 results for Things to come. Taking first one
+18:52:43.871913:933/1983.Found 1 results for Tokyo eyes. Taking first one
+18:52:45.145986:934/1983.Found 7 results for The hills have eyes. Taking first one
+18:52:47.460119:935/1983.Failed. Found no results for Miss doubtfire
+18:52:47.872142:936/1983.Found 1 results for The world, the flesh and the devil. Taking first one
+18:52:49.154216:937/1983.Found 1 results for La classe operaia va in paradiso. Taking first one
+18:52:50.670302:938/1983.Found 1 results for La journée de la jupe. Taking first one
+18:52:50.670302:40 requests reached. Pausing 10 sec
+18:53:02.061954:939/1983.Found 1 results for Carne trémula. Taking first one
+18:53:03.332027:940/1983.Found 12 results for Once upon a time in china. Taking first one
+18:53:04.623100:941/1983.Found 2 results for L'audition. Taking first one
+18:53:05.910174:942/1983.Found 42 results for Tabu. Taking first one
+18:53:07.169246:943/1983.Found 9 results for the expendables. Taking first one
+18:53:08.421318:944/1983.Found 1 results for Une si jolie petite plage. Taking first one
+18:53:09.685390:945/1983.Found 1 results for Le silence de Lorna. Taking first one
+18:53:10.972464:946/1983.Found 2 results for The burmese harp. Taking first one
+18:53:12.224535:947/1983.Found 1 results for Resurrection of the little match girl. Taking first one
+18:53:13.524610:948/1983.Found 31 results for Willow. Taking first one
+18:53:14.843685:949/1983.Failed. Found no results for Thrown Down
+18:53:15.261709:950/1983.Found 7 results for La promesse. Taking first one
+18:53:16.527781:951/1983.Found 1 results for Margin Call. Taking first one
+18:53:17.822855:952/1983.Found 1 results for First position. Taking first one
+18:53:17.823855:40 requests reached. Pausing 10 sec
+18:53:29.119502:953/1983.Found 3 results for Invictus. Taking first one
+18:53:31.029611:954/1983.Found 82 results for Lola. Taking first one
+18:53:32.288683:955/1983.Found 1 results for Brand upon the brain. Taking first one
+18:53:33.552755:956/1983.Found 3 results for The State of Things. Taking first one
+18:53:34.790826:957/1983.Found 81 results for Seconds. Taking first one
+18:53:36.164904:958/1983.Found 123 results for The fighter. Taking first one
+18:53:37.370973:959/1983.Failed. Found no results for Journey at the center of the earth
+18:53:37.867002:960/1983.Found 3 results for Grey gardens. Taking first one
+18:53:39.044069:961/1983.Found 12 results for Ghostbusters. Taking first one
+18:53:40.270139:962/1983.Found 2 results for 8 Femmes. Taking first one
+18:53:41.482209:963/1983.Found 1 results for Bring me the head of Alfredo Garcia. Taking first one
+18:53:42.669277:964/1983.Found 1 results for Before the devil knows you're dead. Taking first one
+18:53:43.896347:965/1983.Found 19 results for La rencontre. Taking first one
+18:53:45.120417:966/1983.Found 3 results for Son of the bride. Taking first one
+18:53:45.120417:40 requests reached. Pausing 10 sec
+18:53:56.340058:967/1983.Found 71 results for Le fils. Taking first one
+18:53:57.506125:968/1983.Found 12 results for Marie Antoinette. Taking first one
+18:53:58.984210:969/1983.Found 1 results for The Offence. Taking first one
+18:54:00.205280:970/1983.Found 9 results for One, Two, Three. Taking first one
+18:54:01.424349:971/1983.Found 14 results for The descent. Taking first one
+18:54:02.620418:972/1983.Found 4 results for The counterfeiters. Taking first one
+18:54:03.814486:973/1983.Found 1 results for Winters Bone. Taking first one
+18:54:05.013555:974/1983.Found 22 results for War Of The Worlds. Taking first one
+18:54:06.281627:975/1983.Found 1 results for 2 days in Paris. Taking first one
+18:54:07.577701:976/1983.Failed. Found no results for 10eme Chambre - instants d'audiences
+18:54:07.993725:977/1983.Found 9 results for A separation. Taking first one
+18:54:09.208794:978/1983.Found 1 results for An unforgettable Summer. Taking first one
+18:54:10.412863:979/1983.Found 2 results for La vie moderne. Taking first one
+18:54:11.616932:980/1983.Found 25 results for Faster. Taking first one
+18:54:11.616932:40 requests reached. Pausing 10 sec
+18:54:22.831574:981/1983.Found 2 results for Rescue Dawn. Taking first one
+18:54:24.034642:982/1983.Found 1 results for Idioterne. Taking first one
+18:54:25.266713:983/1983.Found 4 results for Jacob's Ladder. Taking first one
+18:54:26.495783:984/1983.Found 1 results for Broken Flowers. Taking first one
+18:54:27.697852:985/1983.Found 1 results for La merditude des choses. Taking first one
+18:54:28.925922:986/1983.Found 1 results for La grande bouffe. Taking first one
+18:54:30.151992:987/1983.Found 4 results for Le boucher. Taking first one
+18:54:31.420065:988/1983.Found 7 results for Melancholia. Taking first one
+18:54:32.716139:989/1983.Found 70 results for Murderer. Taking first one
+18:54:33.966211:990/1983.Found 43 results for Debut. Taking first one
+18:54:35.215282:991/1983.Found 17 results for Crumb. Taking first one
+18:54:36.483354:992/1983.Found 1 results for Nueve Reinas. Taking first one
+18:54:39.163508:993/1983.Found 4 results for Odd Man Out. Taking first one
+18:54:39.567531:40 requests reached. Pausing 10 sec
+18:54:50.397150:994/1983.Found 141 results for Salo. Taking first one
+18:54:51.974241:995/1983.Found 12 results for Bonnie and Clyde. Taking first one
+18:54:53.246313:996/1983.Found 1 results for Terminus Paradis. Taking first one
+18:54:54.534387:997/1983.Found 1 results for The enigma of Kaspar Hauser. Taking first one
+18:54:55.811460:998/1983.Found 9 results for The verdict. Taking first one
+18:54:57.096534:999/1983.Found 8 results for The tree of life. Taking first one
+18:54:58.377607:1000/1983.Found 8 results for Ostern. Taking first one
+18:54:59.633679:1001/1983.Found 2 results for The last tycoon. Taking first one
+18:55:00.883750:1002/1983.Found 11 results for Space Battleship Yamato. Taking first one
+18:55:02.142822:1003/1983.Found 2 results for Billy Elliot. Taking first one
+18:55:03.432896:1004/1983.Found 1 results for Six String Samurai. Taking first one
+18:55:04.724970:1005/1983.Found 2 results for The man from earth. Taking first one
+18:55:06.019044:1006/1983.Found 2 results for Panic in Needle Park. Taking first one
+18:55:06.864092:40 requests reached. Pausing 10 sec
+18:55:17.288688:1007/1983.Found 1 results for Timecrimes. Taking first one
+18:55:18.613764:1008/1983.Found 28 results for Wall Street. Taking first one
+18:55:19.919839:1009/1983.Found 2 results for Winchester 73. Taking first one
+18:55:21.195912:1010/1983.Found 475 results for Brothers. Taking first one
+18:55:22.435983:1011/1983.Failed. Found no results for Haeven
+18:55:22.843006:1012/1983.Found 1 results for Trains étroitement surveillés. Taking first one
+18:55:24.113079:1013/1983.Found 3 results for Carnival of Souls. Taking first one
+18:55:25.338149:1014/1983.Found 1 results for Un jour sans fin. Taking first one
+18:55:26.613222:1015/1983.Found 181 results for Control. Taking first one
+18:55:27.845292:1016/1983.Found 1 results for Le ciel est à vous. Taking first one
+18:55:29.122365:1017/1983.Found 1 results for Perceval le Gallois. Taking first one
+18:55:30.407439:1018/1983.Found 3 results for Little Big Man. Taking first one
+18:55:31.640509:1019/1983.Found 2 results for Party 7. Taking first one
+18:55:33.167597:1020/1983.Found 2 results for The Secret in their Eyes. Taking first one
+18:55:34.014645:40 requests reached. Pausing 10 sec
+18:55:44.433241:1021/1983.Found 1 results for The troll hunter. Taking first one
+18:55:45.724315:1022/1983.Found 2 results for X-Men first class. Taking first one
+18:55:47.003388:1023/1983.Failed. Found no results for Le trésort des iles chiennes
+18:55:47.442413:1024/1983.Found 1 results for Battle beyond the stars. Taking first one
+18:55:48.735487:1025/1983.Found 3 results for Jason and the Argonauts. Taking first one
+18:55:50.051562:1026/1983.Found 3 results for Lust for Life. Taking first one
+18:55:51.336636:1027/1983.Found 1 results for Master and Commander. Taking first one
+18:55:52.667712:1028/1983.Found 8 results for The Green Hornet. Taking first one
+18:55:53.934784:1029/1983.Found 1 results for The boy with Green hair. Taking first one
+18:55:55.237859:1030/1983.Found 10 results for A game of thrones. Taking first one
+18:55:56.513932:1031/1983.Found 1 results for L'Albero degli zoccoli . Taking first one
+18:55:57.787005:1032/1983.Found 2 results for Le goût du thé. Taking first one
+18:55:59.183085:1033/1983.Found 1 results for Discours d'un roi. Taking first one
+18:56:00.460158:1034/1983.Found 7 results for Two lovers. Taking first one
+18:56:01.343208:40 requests reached. Pausing 10 sec
+18:56:11.752804:1035/1983.Found 3 results for Ace in the hole. Taking first one
+18:56:13.003875:1036/1983.Found 48 results for Scarecrow. Taking first one
+18:56:14.297949:1037/1983.Found 3 results for Sucker Punch. Taking first one
+18:56:15.567022:1038/1983.Found 10 results for Watchmen. Taking first one
+18:56:16.945101:1039/1983.Found 88 results for 300. Taking first one
+18:56:18.198172:1040/1983.Found 10 results for Dawn of the dead. Taking first one
+18:56:19.448244:1041/1983.Failed. Found no results for The bourne trilogy
+18:56:19.860267:1042/1983.Found 22 results for The Chaser. Taking first one
+18:56:21.121339:1043/1983.Found 3 results for Aelita. Taking first one
+18:56:22.372411:1044/1983.Found 2 results for After the wedding. Taking first one
+18:56:23.627483:1045/1983.Found 1 results for Open Hearts. Taking first one
+18:56:24.893555:1046/1983.Found 1 results for Air Doll. Taking first one
+18:56:26.546650:1047/1983.Found 2 results for As tears go by. Taking first one
+18:56:27.842724:1048/1983.Found 1 results for Des hommes et des dieux. Taking first one
+18:56:28.674771:40 requests reached. Pausing 10 sec
+18:56:39.163371:1049/1983.Found 1 results for A dog day afternoon. Taking first one
+18:56:40.448445:1050/1983.Found 2 results for I saw the devil. Taking first one
+18:56:41.716517:1051/1983.Found 992 results for Moon. Taking first one
+18:56:42.980590:1052/1983.Failed. Found no results for Les yeux sans visages
+18:56:43.417615:1053/1983.Found 3 results for Lord of War. Taking first one
+18:56:44.679687:1054/1983.Found 3 results for True Grit. Taking first one
+18:56:45.915758:1055/1983.Found 88 results for Somewhere. Taking first one
+18:56:47.215832:1056/1983.Found 2 results for Source Code. Taking first one
+18:56:48.496905:1057/1983.Found 122 results for Superman. Taking first one
+18:56:49.800980:1058/1983.Found 10 results for The magnificent seven. Taking first one
+18:56:51.082053:1059/1983.Found 1 results for Still Walking. Taking first one
+18:56:52.376127:1060/1983.Found 24 results for Badlands. Taking first one
+18:56:53.676201:1061/1983.Found 1 results for Stardust memories. Taking first one
+18:56:54.935273:1062/1983.Found 2 results for The last picture show. Taking first one
+18:56:55.783322:40 requests reached. Pausing 10 sec
+18:57:06.220919:1063/1983.Found 1 results for Zardoz. Taking first one
+18:57:07.523994:1064/1983.Found 90 results for L'enfant. Taking first one
+18:57:08.789066:1065/1983.Failed. Found no results for Millenium Actress
+18:57:09.201089:1066/1983.Failed. Found no results for Paranoia Agent
+18:57:09.615113:1067/1983.Found 4 results for Rosemary's Baby. Taking first one
+18:57:10.885186:1068/1983.Found 16 results for Red Cliff. Taking first one
+18:57:12.169259:1069/1983.Found 1 results for Man without a Star. Taking first one
+18:57:13.456333:1070/1983.Found 7 results for La méthode. Taking first one
+18:57:14.796409:1071/1983.Found 94 results for Dead Man. Taking first one
+18:57:16.084483:1072/1983.Found 1 results for Steamboy. Taking first one
+18:57:17.370557:1073/1983.Found 3 results for Death on the Nile. Taking first one
+18:57:18.664631:1074/1983.Found 1 results for A serious man. Taking first one
+18:57:19.929703:1075/1983.Found 6 results for Saraband. Taking first one
+18:57:21.197776:1076/1983.Found 90 results for Sunshine. Taking first one
+18:57:22.445847:1077/1983.Found 2 results for 13 assassins. Taking first one
+18:57:22.879872:40 requests reached. Pausing 10 sec
+18:57:34.121515:1078/1983.Found 1 results for Titicut Follies. Taking first one
+18:57:35.436590:1079/1983.Found 2 results for Les yeux noirs. Taking first one
+18:57:36.748665:1080/1983.Found 1 results for The Match Factory Girl. Taking first one
+18:57:38.008737:1081/1983.Found 5 results for Rear Window. Taking first one
+18:57:39.325812:1082/1983.Found 1 results for The yes men fix the world. Taking first one
+18:57:40.546882:1083/1983.Found 3 results for L'enclos. Taking first one
+18:57:41.793954:1084/1983.Found 48 results for Chinatown. Taking first one
+18:57:43.009023:1085/1983.Found 4 results for Moon Warriors. Taking first one
+18:57:44.248094:1086/1983.Found 12 results for Deep End. Taking first one
+18:57:45.442162:1087/1983.Found 7 results for Le Bossu. Taking first one
+18:57:46.659232:1088/1983.Found 1 results for Travail au noir. Taking first one
+18:57:47.854300:1089/1983.Found 5 results for Black Swan. Taking first one
+18:57:49.090371:1090/1983.Found 1 results for Le pont du nord. Taking first one
+18:57:49.930419:40 requests reached. Pausing 10 sec
+18:58:00.332014:1091/1983.Found 9 results for Gilda. Taking first one
+18:58:01.565084:1092/1983.Found 1 results for La pointe courte. Taking first one
+18:58:02.849158:1093/1983.Found 1 results for Sans toit ni loi. Taking first one
+18:58:04.075228:1094/1983.Found 1 results for Tous les matins du monde. Taking first one
+18:58:05.289298:1095/1983.Found 1 results for L'enfer d'Henri-Georges Clouzot. Taking first one
+18:58:06.546369:1096/1983.Found 15 results for Black Moon. Taking first one
+18:58:07.748438:1097/1983.Found 1 results for The Eiger Sanction. Taking first one
+18:58:08.955507:1098/1983.Found 2 results for The Ghost Writer. Taking first one
+18:58:10.179577:1099/1983.Found 4 results for Detective Dee. Taking first one
+18:58:11.356645:1100/1983.Found 2 results for Serpico. Taking first one
+18:58:12.643718:1101/1983.Found 4 results for The Lady Eve. Taking first one
+18:58:13.857788:1102/1983.Found 1 results for Ponette. Taking first one
+18:58:15.051856:1103/1983.Found 12 results for Machete. Taking first one
+18:58:16.277926:1104/1983.Found 33 results for Indiana Jones & the temple of doom. Taking first one
+18:58:16.277926:40 requests reached. Pausing 10 sec
+18:58:27.506568:1105/1983.Found 2 results for Close encounter of the third kind. Taking first one
+18:58:28.852645:1106/1983.Found 18 results for Le départ. Taking first one
+18:58:30.077715:1107/1983.Found 86 results for Annie. Taking first one
+18:58:31.306786:1108/1983.Found 16 results for The Pied Piper. Taking first one
+18:58:32.500854:1109/1983.Found 6 results for The Adventures Of Robin Hood. Taking first one
+18:58:33.778927:1110/1983.Found 39 results for Papillon. Taking first one
+18:58:35.006997:1111/1983.Found 31 results for Kung-fu Master. Taking first one
+18:58:36.237068:1112/1983.Found 1 results for La gueule de l'emploi. Taking first one
+18:58:37.473138:1113/1983.Found 5 results for Raiders of the Lost Ark. Taking first one
+18:58:38.753212:1114/1983.Found 1 results for Third man on the mountain. Taking first one
+18:58:40.340302:1115/1983.Found 1 results for Jacquot de Nantes. Taking first one
+18:58:41.578373:1116/1983.Found 1 results for Les Cent et une nuits de Simon Cinema. Taking first one
+18:58:42.854446:1117/1983.Found 1 results for Coeur de Pierre. Taking first one
+18:58:43.276470:40 requests reached. Pausing 10 sec
+18:58:54.161093:1118/1983.Found 1 results for National Velvet. Taking first one
+18:58:55.486169:1119/1983.Failed. Found no results for The big reg one
+18:58:55.906193:1120/1983.Found 72 results for Tron. Taking first one
+18:58:57.159264:1121/1983.Found 1 results for La sixieme face du Pentagone. Taking first one
+18:58:58.555344:1122/1983.Found 26 results for Phantasm. Taking first one
+18:58:59.782414:1123/1983.Found 1 results for Mélodie en sous-sol. Taking first one
+18:59:01.122491:1124/1983.Found 17 results for Planet of the Apes. Taking first one
+18:59:02.364562:1125/1983.Found 6 results for The Yards. Taking first one
+18:59:03.654636:1126/1983.Failed. Found no results for Tintin sur la Lune
+18:59:04.068659:1127/1983.Found 9 results for E.T. Taking first one
+18:59:05.334732:1128/1983.Found 1 results for Tant qu'on a la santé . Taking first one
+18:59:06.586804:1129/1983.Found 1 results for Les plages d'Agnès. Taking first one
+18:59:08.135892:1130/1983.Found 1 results for Simple mortel. Taking first one
+18:59:09.386964:1131/1983.Found 2 results for Un singe en hiver. Taking first one
+18:59:10.707039:1132/1983.Failed. Found no results for La Antenna
+18:59:10.707039:40 requests reached. Pausing 10 sec
+18:59:21.133636:1133/1983.Found 13642 results for Z. Taking first one
+18:59:22.390707:1134/1983.Failed. Found no results for Dead Set Season 1
+18:59:22.798731:1135/1983.Failed. Found no results for Stroskek
+18:59:23.235756:1136/1983.Found 1 results for L'homme qui ment. Taking first one
+18:59:24.685839:1137/1983.Found 8 results for White Christmas. Taking first one
+18:59:26.083919:1138/1983.Found 3 results for Honey I shrunk the kids. Taking first one
+18:59:27.362992:1139/1983.Found 1 results for Les conséquences de l'amour. Taking first one
+18:59:28.646065:1140/1983.Found 13 results for Back To The Future. Taking first one
+18:59:29.914138:1141/1983.Found 2 results for The Hitchhiker's Guide to the Galaxy. Taking first one
+18:59:31.163209:1142/1983.Found 11 results for Noir et blanc. Taking first one
+18:59:32.421281:1143/1983.Found 1 results for Le salaire de la peur. Taking first one
+18:59:33.684353:1144/1983.Found 1 results for Food inc. Taking first one
+18:59:34.987428:1145/1983.Found 6 results for Ghost World. Taking first one
+18:59:36.248500:1146/1983.Found 25 results for Following. Taking first one
+18:59:37.522573:1147/1983.Found 1 results for Les maitres du temps. Taking first one
+18:59:37.942597:40 requests reached. Pausing 10 sec
+18:59:49.061233:1148/1983.Found 11 results for Ivanhoe. Taking first one
+18:59:50.335306:1149/1983.Found 28 results for Fragile. Taking first one
+18:59:51.683383:1150/1983.Found 1 results for Maboroshi no hikari. Taking first one
+18:59:52.946455:1151/1983.Found 12 results for The innocents. Taking first one
+18:59:54.239529:1152/1983.Found 992 results for Moon. Taking first one
+18:59:55.516602:1153/1983.Found 6 results for Barefoot Gen. Taking first one
+18:59:56.786675:1154/1983.Found 1 results for Mesrine L'instinct de mort. Taking first one
+18:59:58.048747:1155/1983.Found 575 results for Zombie. Taking first one
+18:59:59.310819:1156/1983.Found 30 results for Star Wars V. Taking first one
+19:00:00.566891:1157/1983.Found 54 results for Ils. Taking first one
+19:00:01.848964:1158/1983.Found 11 results for Ivanhoe. Taking first one
+19:00:03.139038:1159/1983.Found 1 results for Crying Fist. Taking first one
+19:00:04.463114:1160/1983.Found 1 results for Le déclin de l'empire américain. Taking first one
+19:00:05.296162:40 requests reached. Pausing 10 sec
+19:00:15.733759:1161/1983.Found 5 results for Star Wars IV. Taking first one
+19:00:16.996831:1162/1983.Found 1 results for Nanook l'esquimau. Taking first one
+19:00:18.261903:1163/1983.Found 2 results for Apocalypse now. Taking first one
+19:00:19.513975:1164/1983.Found 5 results for Lifeboat. Taking first one
+19:00:20.765046:1165/1983.Found 2 results for Assault Girls. Taking first one
+19:00:22.040119:1166/1983.Found 1 results for Brokeback Mountain. Taking first one
+19:00:23.311192:1167/1983.Failed. Found no results for The sweet smell of success
+19:00:23.752217:1168/1983.Found 9 results for Neverending Story. Taking first one
+19:00:25.019290:1169/1983.Found 8 results for Speed Racer. Taking first one
+19:00:26.306363:1170/1983.Found 8 results for Cyrano de Bergerac. Taking first one
+19:00:27.568435:1171/1983.Found 2 results for Stalag 17. Taking first one
+19:00:28.801506:1172/1983.Found 198 results for SPL. Taking first one
+19:00:30.488602:1173/1983.Found 1 results for Aliens from the deep. Taking first one
+19:00:31.995689:1174/1983.Found 1 results for L'an 01. Taking first one
+19:00:32.897740:40 requests reached. Pausing 10 sec
+19:00:43.350338:1175/1983.Found 1 results for L'an 01. Taking first one
+19:00:44.665413:1176/1983.Found 1 results for The constant factor. Taking first one
+19:00:45.926485:1177/1983.Found 1 results for Shutter Island. Taking first one
+19:00:47.206559:1178/1983.Found 1 results for Travelling Players. Taking first one
+19:00:48.727646:1179/1983.Found 2 results for The Philadelphia Story. Taking first one
+19:00:50.137726:1180/1983.Found 4 results for Borat . Taking first one
+19:00:51.467802:1181/1983.Found 1 results for Sholay. Taking first one
+19:00:52.727874:1182/1983.Found 4 results for Suddenly last summer. Taking first one
+19:00:54.004947:1183/1983.Found 315 results for Vengeance. Taking first one
+19:00:55.251019:1184/1983.Found 3 results for The 39 Steps. Taking first one
+19:00:56.489090:1185/1983.Found 67 results for Push. Taking first one
+19:00:57.756162:1186/1983.Found 1 results for Tachiguishi Retsuden. Taking first one
+19:00:59.035235:1187/1983.Found 5 results for La porte de l'enfer. Taking first one
+19:01:00.283307:1188/1983.Found 10 results for Alice au pays des merveilles. Taking first one
+19:01:00.283307:40 requests reached. Pausing 10 sec
+19:01:11.581953:1189/1983.Found 1 results for When the Last Sword Is Drawn. Taking first one
+19:01:12.854026:1190/1983.Found 1 results for In the electric mist. Taking first one
+19:01:14.129099:1191/1983.Found 6 results for True Legend. Taking first one
+19:01:15.368169:1192/1983.Found 2 results for Marathon Man. Taking first one
+19:01:16.622241:1193/1983.Found 1 results for Space cowboys. Taking first one
+19:01:17.891314:1194/1983.Found 1 results for The beast stalker. Taking first one
+19:01:19.121384:1195/1983.Found 1 results for Summer Wars. Taking first one
+19:01:20.349454:1196/1983.Found 1 results for L'amour l'après-midi. Taking first one
+19:01:21.649529:1197/1983.Found 2 results for les beaux gosses. Taking first one
+19:01:22.888600:1198/1983.Found 1 results for Valhalla rising. Taking first one
+19:01:24.123670:1199/1983.Found 3 results for Tropic Thunder. Taking first one
+19:01:25.401743:1200/1983.Found 723 results for Earth. Taking first one
+19:01:26.663815:1201/1983.Found 31 results for Haze. Taking first one
+19:01:27.068839:40 requests reached. Pausing 10 sec
+19:01:37.895458:1202/1983.Found 1 results for Tetsuo, the Iron Man. Taking first one
+19:01:39.146529:1203/1983.Found 1 results for Tokyo Fist. Taking first one
+19:01:41.430660:1204/1983.Found 16 results for Yoyo. Taking first one
+19:01:42.678731:1205/1983.Found 8 results for Protege. Taking first one
+19:01:44.329826:1206/1983.Found 1 results for A bloody aria. Taking first one
+19:01:45.576897:1207/1983.Found 11 results for Black Book. Taking first one
+19:01:47.137987:1208/1983.Found 1 results for Enquete sur un citoyen au dessus de tout soupçon. Taking first one
+19:01:48.385058:1209/1983.Found 6 results for Roman Holiday. Taking first one
+19:01:49.965148:1210/1983.Found 3 results for Cloverfield. Taking first one
+19:01:51.215220:1211/1983.Found 4 results for Inception. Taking first one
+19:01:52.437290:1212/1983.Found 1 results for Burn After Reading. Taking first one
+19:01:53.618357:1213/1983.Found 18 results for Insomnia. Taking first one
+19:01:55.153445:1214/1983.Found 1 results for Slumdog Millionnaire. Taking first one
+19:01:55.970492:40 requests reached. Pausing 10 sec
+19:02:06.356086:1215/1983.Found 1 results for La sirene du mississippi. Taking first one
+19:02:07.591156:1216/1983.Found 5 results for Short Circuit. Taking first one
+19:02:08.835228:1217/1983.Found 216 results for The Mist. Taking first one
+19:02:10.058297:1218/1983.Failed. Found no results for A passage to buddha
+19:02:10.466321:1219/1983.Found 3 results for Nordwand. Taking first one
+19:02:11.692391:1220/1983.Found 13 results for Moby Dick. Taking first one
+19:02:12.909461:1221/1983.Found 1 results for The Sky Crawlers. Taking first one
+19:02:14.145531:1222/1983.Found 18 results for The invisible man. Taking first one
+19:02:15.427605:1223/1983.Found 1 results for High and Dizzy. Taking first one
+19:02:16.690677:1224/1983.Found 1 results for Reflections in a Golden Eye. Taking first one
+19:02:17.908747:1225/1983.Found 1 results for The imaginarium of Doctor Parnassus. Taking first one
+19:02:19.143817:1226/1983.Found 4 results for La cérémonie. Taking first one
+19:02:20.326885:1227/1983.Found 1 results for Les Disparus de Saint-Agil. Taking first one
+19:02:21.555955:1228/1983.Found 1 results for Yellow submarine. Taking first one
+19:02:22.322999:40 requests reached. Pausing 10 sec
+19:02:32.704593:1229/1983.Failed. Found no results for Littles Spies
+19:02:33.099615:1230/1983.Found 1 results for la mort de dante lazarescu. Taking first one
+19:02:34.356687:1231/1983.Found 1 results for Saturday Night Fever. Taking first one
+19:02:35.617759:1232/1983.Found 1 results for Rhapsody in August. Taking first one
+19:02:36.942835:1233/1983.Failed. Found no results for Tekon kinkurito
+19:02:37.349858:1234/1983.Found 2 results for Kuroi Ame. Taking first one
+19:02:38.602930:1235/1983.Found 23 results for On the town. Taking first one
+19:02:39.862002:1236/1983.Found 1 results for Teenage Hooker Became Killing Machine In Daehakroh. Taking first one
+19:02:41.103073:1237/1983.Found 1 results for Ad Lib Night. Taking first one
+19:02:42.293141:1238/1983.Found 17 results for Interrogation. Taking first one
+19:02:43.565214:1239/1983.Failed. Found no results for L'enfer blanc du Piz Palu
+19:02:43.991238:1240/1983.Found 1 results for The President's Last Bang. Taking first one
+19:02:45.230309:1241/1983.Found 1 results for La planète sauvage. Taking first one
+19:02:46.524383:1242/1983.Found 8 results for Cul-de-sac. Taking first one
+19:02:48.028469:1243/1983.Found 608 results for Yi-yi. Taking first one
+19:02:49.310543:1244/1983.Found 1 results for Burst City. Taking first one
+19:02:49.310543:40 requests reached. Pausing 10 sec
+19:03:00.498182:1245/1983.Found 4 results for Zombieland. Taking first one
+19:03:01.732253:1246/1983.Found 1 results for Les herbes folles. Taking first one
+19:03:02.881319:1247/1983.Failed. Found no results for Pusher Trilogy
+19:03:03.311343:1248/1983.Found 4 results for Ali Baba Et Les 40 Voleurs. Taking first one
+19:03:04.463409:1249/1983.Found 1 results for Les Parapluies De Cherbourg. Taking first one
+19:03:05.689479:1250/1983.Found 1 results for Le ruban blanc. Taking first one
+19:03:06.858546:1251/1983.Found 1 results for L'aile ou la cuisse. Taking first one
+19:03:08.026613:1252/1983.Found 1 results for The Loneliness Of The Long Distance Runner. Taking first one
+19:03:09.296686:1253/1983.Found 7 results for Naked Island. Taking first one
+19:03:10.584759:1254/1983.Found 1 results for Les tontons flingueurs. Taking first one
+19:03:11.822830:1255/1983.Found 1 results for Citizen Dog. Taking first one
+19:03:13.023899:1256/1983.Found 20 results for Ulysses. Taking first one
+19:03:14.368976:1257/1983.Found 2 results for Conte d'été. Taking first one
+19:03:15.670050:1258/1983.Found 19 results for Les trois mousquetaires. Taking first one
+19:03:15.670050:40 requests reached. Pausing 10 sec
+19:03:27.008699:1259/1983.Found 1 results for Gojoe. Taking first one
+19:03:28.288772:1260/1983.Found 1 results for Electric Dragon 80000V. Taking first one
+19:03:29.496841:1261/1983.Found 1 results for Onibaba. Taking first one
+19:03:30.707910:1262/1983.Failed. Found no results for Mr Ripois
+19:03:31.119934:1263/1983.Found 2 results for Jeux interdits. Taking first one
+19:03:32.393007:1264/1983.Found 2 results for Paddle To The Sea. Taking first one
+19:03:33.630078:1265/1983.Found 1 results for Nuit et brouillard au Japon. Taking first one
+19:03:34.906151:1266/1983.Found 28 results for Taboo. Taking first one
+19:03:36.115220:1267/1983.Found 22 results for Furyo. Taking first one
+19:03:37.357291:1268/1983.Found 1 results for L'empire des sens. Taking first one
+19:03:38.561360:1269/1983.Found 1 results for Fin août, début septembre. Taking first one
+19:03:39.739427:1270/1983.Found 49 results for La vérité. Taking first one
+19:03:40.993499:1271/1983.Found 690 results for Mother. Taking first one
+19:03:42.189567:1272/1983.Found 1 results for L'enfant lion. Taking first one
+19:03:42.189567:40 requests reached. Pausing 10 sec
+19:03:53.633222:1273/1983.Found 4 results for Shoah. Taking first one
+19:03:54.847291:1274/1983.Found 4 results for Arsenic & Old Lace. Taking first one
+19:03:56.068361:1275/1983.Found 2 results for Le journal d'une femme de chambre. Taking first one
+19:03:57.291431:1276/1983.Found 4 results for West Side Story. Taking first one
+19:03:58.539502:1277/1983.Failed. Found no results for District Nine
+19:03:58.930525:1278/1983.Found 9 results for Last witness. Taking first one
+19:04:00.148594:1279/1983.Found 6 results for Talking Heads. Taking first one
+19:04:01.382665:1280/1983.Found 1 results for Le Cimetiere De La Morale. Taking first one
+19:04:02.608735:1281/1983.Found 38 results for The lost world. Taking first one
+19:04:03.816804:1282/1983.Found 118 results for Cops. Taking first one
+19:04:05.027873:1283/1983.Found 4 results for Inglorious Bastards. Taking first one
+19:04:06.234942:1284/1983.Found 1 results for Landscape after battle. Taking first one
+19:04:07.426011:1285/1983.Found 18 results for Kanal. Taking first one
+19:04:08.720085:1286/1983.Found 83 results for A Generation. Taking first one
+19:04:08.721085:40 requests reached. Pausing 10 sec
+19:04:19.948727:1287/1983.Found 2 results for Moonfleet. Taking first one
+19:04:21.193798:1288/1983.Found 1 results for Les demoiselles de Wilko. Taking first one
+19:04:22.381866:1289/1983.Found 14 results for The Graduate. Taking first one
+19:04:23.611936:1290/1983.Found 1 results for The Honeymoon Killers. Taking first one
+19:04:24.813005:1291/1983.Found 1 results for Pickup on South Street. Taking first one
+19:04:26.027074:1292/1983.Found 1 results for Pauline à la plage. Taking first one
+19:04:27.222143:1293/1983.Found 1 results for The killing of a chinese bookie. Taking first one
+19:04:28.385209:1294/1983.Found 2 results for Meet me in St. Louis. Taking first one
+19:04:29.630281:1295/1983.Found 8 results for Opening Night. Taking first one
+19:04:30.816348:1296/1983.Found 2 results for The nightmare before Christmas. Taking first one
+19:04:32.017417:1297/1983.Found 1 results for Bim le petit ane. Taking first one
+19:04:33.200485:1298/1983.Found 42 results for Still Life. Taking first one
+19:04:34.397553:1299/1983.Found 3 results for The Grapes of Wrath. Taking first one
+19:04:34.808577:40 requests reached. Pausing 10 sec
+19:04:45.592194:1300/1983.Found 7 results for Five Fingers. Taking first one
+19:04:46.792262:1301/1983.Failed. Found no results for Cet étrange objet du désir
+19:04:47.231287:1302/1983.Found 49 results for King Kong. Taking first one
+19:04:48.481359:1303/1983.Found 1 results for Un uomo a meta. Taking first one
+19:04:49.716429:1304/1983.Found 28 results for Voyages. Taking first one
+19:04:50.942500:1305/1983.Found 11 results for Vengeance is Mine. Taking first one
+19:04:52.130568:1306/1983.Found 7 results for Heaven's Gate. Taking first one
+19:04:53.391640:1307/1983.Found 4 results for The Deer Hunter. Taking first one
+19:04:54.638711:1308/1983.Found 67 results for Hamlet. Taking first one
+19:04:55.805778:1309/1983.Found 3 results for Rosencrantz & Guildenstern Are Dead. Taking first one
+19:04:57.001846:1310/1983.Found 1 results for Le Fantome De La Liberte. Taking first one
+19:04:58.220916:1311/1983.Found 1 results for Tristana. Taking first one
+19:04:59.522990:1312/1983.Found 2 results for A King in New York. Taking first one
+19:05:00.771062:1313/1983.Found 1 results for The Age of Assassins. Taking first one
+19:05:01.212087:40 requests reached. Pausing 10 sec
+19:05:12.062708:1314/1983.Found 126 results for Milk. Taking first one
+19:05:13.313779:1315/1983.Found 174 results for Elephant. Taking first one
+19:05:14.524848:1316/1983.Found 1 results for Good Will Hunting. Taking first one
+19:05:15.715917:1317/1983.Found 2 results for Sciuscià. Taking first one
+19:05:16.948987:1318/1983.Found 4 results for Miracle on 34th Street. Taking first one
+19:05:18.207059:1319/1983.Found 336 results for The Fall. Taking first one
+19:05:19.437129:1320/1983.Found 57 results for The Cell. Taking first one
+19:05:20.796207:1321/1983.Found 1 results for One Eyed Jacks. Taking first one
+19:05:22.037278:1322/1983.Found 1 results for Le mécano de la General. Taking first one
+19:05:23.316351:1323/1983.Found 1 results for Let the right on in. Taking first one
+19:05:24.600425:1324/1983.Found 1 results for Capitaine Conan. Taking first one
+19:05:25.937501:1325/1983.Found 1 results for Cria Cuervos. Taking first one
+19:05:27.188573:1326/1983.Found 1 results for Cries and whispers. Taking first one
+19:05:28.008620:40 requests reached. Pausing 10 sec
+19:05:38.465218:1327/1983.Found 2 results for La voie lactée. Taking first one
+19:05:39.723290:1328/1983.Found 2 results for Raging Bull. Taking first one
+19:05:40.991362:1329/1983.Failed. Found no results for The blue dalhia
+19:05:41.377384:1330/1983.Found 2 results for Phantom of paradise. Taking first one
+19:05:42.610455:1331/1983.Found 2 results for You can't take it with you. Taking first one
+19:05:43.872527:1332/1983.Found 56 results for Thirst. Taking first one
+19:05:45.149600:1333/1983.Found 2 results for Le voyage dans la lune. Taking first one
+19:05:46.400672:1334/1983.Found 1 results for Killer of Sheep. Taking first one
+19:05:47.659744:1335/1983.Found 11 results for Seventh Heaven. Taking first one
+19:05:48.876813:1336/1983.Found 4 results for Lady Vengeance. Taking first one
+19:05:50.123885:1337/1983.Found 11 results for Old Boy. Taking first one
+19:05:51.412958:1338/1983.Found 1 results for Sympathy for Mister Vengeance. Taking first one
+19:05:52.619027:1339/1983.Found 1 results for Joint Security Area. Taking first one
+19:05:53.866099:1340/1983.Found 1 results for La table tournante. Taking first one
+19:05:54.814153:40 requests reached. Pausing 10 sec
+19:06:05.203747:1341/1983.Found 1 results for Las Hurdes. Taking first one
+19:06:06.444818:1342/1983.Found 10 results for La Jarre. Taking first one
+19:06:07.684889:1343/1983.Found 8 results for La chinoise. Taking first one
+19:06:08.901959:1344/1983.Found 47 results for Week-end. Taking first one
+19:06:10.131029:1345/1983.Found 2 results for À bout de souffle. Taking first one
+19:06:11.326097:1346/1983.Found 2 results for Le Mépris. Taking first one
+19:06:12.549167:1347/1983.Found 1 results for Alphaville, une étrange aventure de Lemmy Caution. Taking first one
+19:06:13.769237:1348/1983.Found 1 results for Pierrot le fou. Taking first one
+19:06:15.028309:1349/1983.Found 4 results for Masculin Feminin. Taking first one
+19:06:16.214377:1350/1983.Found 1 results for Violence des échanges en milieu tempéré. Taking first one
+19:06:17.411445:1351/1983.Found 3 results for The Social Network. Taking first one
+19:06:18.673517:1352/1983.Found 1 results for La gloire de mon père. Taking first one
+19:06:19.905588:1353/1983.Found 11 results for The immigrant. Taking first one
+19:06:21.121658:1354/1983.Found 1 results for Raining in the mountain. Taking first one
+19:06:21.121658:40 requests reached. Pausing 10 sec
+19:06:32.425304:1355/1983.Found 1 results for Buffalo Boy and the Flute. Taking first one
+19:06:33.651374:1356/1983.Found 1 results for Le vagabond de Tokyo. Taking first one
+19:06:34.912446:1357/1983.Found 5 results for Un conte de noel. Taking first one
+19:06:36.140517:1358/1983.Found 1 results for Jin-Roh, the wolf brigade. Taking first one
+19:06:37.354586:1359/1983.Found 1 results for Traité de bave et d'éternité. Taking first one
+19:06:38.578656:1360/1983.Found 1 results for L'enfance d'Ivan. Taking first one
+19:06:39.797726:1361/1983.Found 1 results for Le roi des masques. Taking first one
+19:06:41.038797:1362/1983.Found 8 results for L'âge d'or. Taking first one
+19:06:42.235865:1363/1983.Found 11 results for Los Olvidados. Taking first one
+19:06:43.528939:1364/1983.Found 1 results for The criminal life of Archibaldo de la Cruz. Taking first one
+19:06:44.750009:1365/1983.Found 4 results for Poil de carotte. Taking first one
+19:06:45.912075:1366/1983.Found 1 results for Land Of Silence And Darkness. Taking first one
+19:06:47.140146:1367/1983.Found 132 results for Tramp, Tramp, Tramp. Taking first one
+19:06:47.531168:40 requests reached. Pausing 10 sec
+19:06:58.622802:1368/1983.Found 1 results for Jiro Dreams of Sushi. Taking first one
+19:06:59.874874:1369/1983.Found 1 results for Le scaphandre et le papillon. Taking first one
+19:07:01.096944:1370/1983.Found 2 results for Into the west. Taking first one
+19:07:02.259010:1371/1983.Found 1 results for La Nuit Des Forains. Taking first one
+19:07:03.430077:1372/1983.Found 1 results for Foul King. Taking first one
+19:07:04.695150:1373/1983.Found 1 results for Les amitiés maléfiques. Taking first one
+19:07:05.910219:1374/1983.Found 1 results for A Countess from Hong Kong. Taking first one
+19:07:07.156291:1375/1983.Found 25 results for Golem. Taking first one
+19:07:08.787384:1376/1983.Found 74 results for Le vampire. Taking first one
+19:07:10.062457:1377/1983.Found 6 results for The Queen of Spades. Taking first one
+19:07:11.351530:1378/1983.Found 1 results for Le sang des bêtes. Taking first one
+19:07:12.630604:1379/1983.Found 144 results for Faust. Taking first one
+19:07:14.289699:1380/1983.Found 2 results for La légende du grand judo. Taking first one
+19:07:15.141747:40 requests reached. Pausing 10 sec
+19:07:25.570344:1381/1983.Found 1 results for Comment je me suis disputé... (Ma vie sexuelle). Taking first one
+19:07:26.863418:1382/1983.Found 10 results for La sentinelle. Taking first one
+19:07:28.106489:1383/1983.Found 1 results for Esther Kahn. Taking first one
+19:07:29.485568:1384/1983.Found 4 results for La maison du diable. Taking first one
+19:07:30.724639:1385/1983.Found 1 results for Les Aventures De Pinocchio. Taking first one
+19:07:32.278727:1386/1983.Found 1 results for Visitor Q. Taking first one
+19:07:33.548800:1387/1983.Found 10 results for Stray dogs. Taking first one
+19:07:34.783871:1388/1983.Found 15 results for Scoop. Taking first one
+19:07:36.075945:1389/1983.Failed. Found no results for La maison du dr Edwardes
+19:07:36.490968:1390/1983.Found 1 results for Profession Reporter. Taking first one
+19:07:37.742040:1391/1983.Found 5 results for La grève. Taking first one
+19:07:39.032114:1392/1983.Found 321 results for La nuit. Taking first one
+19:07:40.298186:1393/1983.Found 12 results for Fantasmes. Taking first one
+19:07:41.628262:1394/1983.Found 1 results for Sur mes lèvres. Taking first one
+19:07:42.467310:40 requests reached. Pausing 10 sec
+19:07:52.886906:1395/1983.Found 35 results for The Sting. Taking first one
+19:07:54.144978:1396/1983.Failed. Found no results for La cité des morts vivants
+19:07:54.549001:1397/1983.Found 1 results for The spy in black. Taking first one
+19:07:55.767071:1398/1983.Failed. Found no results for The small black room
+19:07:56.157093:1399/1983.Found 1 results for A canterbury Tale. Taking first one
+19:07:57.388164:1400/1983.Found 3 results for I know where i'm going. Taking first one
+19:07:58.588232:1401/1983.Found 1 results for 49th parallel. Taking first one
+19:07:59.762299:1402/1983.Found 3 results for The thief of bagdad. Taking first one
+19:08:00.922366:1403/1983.Found 2 results for The Tales of Hoffmann. Taking first one
+19:08:02.118434:1404/1983.Found 1 results for Sexmission. Taking first one
+19:08:03.269500:1405/1983.Found 1 results for Waltz with Bashir. Taking first one
+19:08:04.475569:1406/1983.Found 1 results for On murmure dans la ville. Taking first one
+19:08:05.841647:1407/1983.Found 1 results for Les nuits de la pleine lune. Taking first one
+19:08:07.042716:1408/1983.Found 1 results for Chronopolis. Taking first one
+19:08:08.291787:1409/1983.Found 256 results for Bug. Taking first one
+19:08:08.675809:40 requests reached. Pausing 10 sec
+19:08:19.497428:1410/1983.Found 21 results for Morocco. Taking first one
+19:08:20.786502:1411/1983.Found 3 results for Shanghai Express. Taking first one
+19:08:22.088576:1412/1983.Found 3 results for Anatomy of a Murder. Taking first one
+19:08:23.298646:1413/1983.Found 1 results for The 5000 Fingers Of Dr. T. Taking first one
+19:08:24.585719:1414/1983.Found 33 results for Network. Taking first one
+19:08:25.769787:1415/1983.Found 3 results for 12 angry men. Taking first one
+19:08:26.971856:1416/1983.Found 2 results for Kin Dza Dza. Taking first one
+19:08:28.163924:1417/1983.Found 1 results for Le polygraphe. Taking first one
+19:08:29.412995:1418/1983.Found 1 results for The Scarlet Empress. Taking first one
+19:08:30.668067:1419/1983.Found 1 results for Le couteau dans l'eau. Taking first one
+19:08:31.967141:1420/1983.Found 1 results for La Jeune Fille et la Mort . Taking first one
+19:08:33.199212:1421/1983.Found 1 results for La Neuvième Porte . Taking first one
+19:08:34.526288:1422/1983.Found 4 results for Le Pianiste . Taking first one
+19:08:35.397338:40 requests reached. Pausing 10 sec
+19:08:45.812933:1423/1983.Found 1 results for Le Bal des vampires . Taking first one
+19:08:47.225014:1424/1983.Found 173 results for Pirates. Taking first one
+19:08:48.486086:1425/1983.Found 1 results for Black Narcissus. Taking first one
+19:08:49.729157:1426/1983.Found 2 results for Stranger Than Paradise. Taking first one
+19:08:51.026232:1427/1983.Found 4 results for Ghost in the Shell 2. Taking first one
+19:08:52.255302:1428/1983.Found 12 results for Hitokiri. Taking first one
+19:08:53.506373:1429/1983.Found 8 results for The misfits. Taking first one
+19:08:54.759445:1430/1983.Found 6 results for Departures. Taking first one
+19:08:55.970514:1431/1983.Found 1 results for Si Paris Nous Était Conté. Taking first one
+19:08:57.247587:1432/1983.Found 1 results for La femme des sables. Taking first one
+19:08:58.566663:1433/1983.Found 2 results for A touch of Zen. Taking first one
+19:08:59.845736:1434/1983.Found 15 results for Grease. Taking first one
+19:09:01.066806:1435/1983.Found 1 results for Ma nuit chez Maud. Taking first one
+19:09:02.307877:1436/1983.Found 1 results for L'ami De Mon Amie. Taking first one
+19:09:02.307877:40 requests reached. Pausing 10 sec
+19:09:13.532519:1437/1983.Found 1 results for La collectionneuse. Taking first one
+19:09:14.958600:1438/1983.Found 2 results for Conte de printemps. Taking first one
+19:09:16.105666:1439/1983.Found 10 results for The shaolin temple. Taking first one
+19:09:17.252732:1440/1983.Found 4 results for The Searchers. Taking first one
+19:09:18.448800:1441/1983.Found 1 results for Tant qu'il y aura des hommes. Taking first one
+19:09:19.655869:1442/1983.Found 1 results for Goyokin. Taking first one
+19:09:20.838937:1443/1983.Found 1 results for Une aussi longue absence. Taking first one
+19:09:22.033005:1444/1983.Found 6 results for Devdas. Taking first one
+19:09:23.198072:1445/1983.Found 1 results for Possible Worlds. Taking first one
+19:09:24.402141:1446/1983.Found 1 results for Le confessionnal. Taking first one
+19:09:25.613210:1447/1983.Found 2 results for Forbidden Planet. Taking first one
+19:09:26.849281:1448/1983.Found 3 results for Sanjuro. Taking first one
+19:09:28.019347:1449/1983.Found 1 results for L'esprit de la ruche. Taking first one
+19:09:28.427371:40 requests reached. Pausing 10 sec
+19:09:39.299993:1450/1983.Found 1 results for Padre Padrone. Taking first one
+19:09:40.531063:1451/1983.Found 1 results for Raising Arizona. Taking first one
+19:09:41.764134:1452/1983.Found 1 results for Miller's Crossing. Taking first one
+19:09:42.980203:1453/1983.Found 1 results for Barton Fink. Taking first one
+19:09:44.214274:1454/1983.Found 3 results for Le Grand Saut . Taking first one
+19:09:45.373340:1455/1983.Found 11 results for Fargo. Taking first one
+19:09:46.549407:1456/1983.Found 2 results for The big Lebowski. Taking first one
+19:09:47.701473:1457/1983.Found 1 results for O'Brother. Taking first one
+19:09:48.890541:1458/1983.Found 1 results for Intolerable Cruelty. Taking first one
+19:09:50.155614:1459/1983.Found 3 results for Ladykillers. Taking first one
+19:09:51.337681:1460/1983.Found 2 results for Les chansons d'amour. Taking first one
+19:09:52.550751:1461/1983.Found 2 results for Letter from an Unknown Woman. Taking first one
+19:09:53.737818:1462/1983.Found 4 results for Les cousins. Taking first one
+19:09:54.553865:40 requests reached. Pausing 10 sec
+19:10:04.993462:1463/1983.Found 16 results for Juno. Taking first one
+19:10:06.202531:1464/1983.Found 1 results for Les invasions barbares. Taking first one
+19:10:07.395600:1465/1983.Found 7 results for Prowler. Taking first one
+19:10:08.569667:1466/1983.Found 2 results for L'incompris. Taking first one
+19:10:09.804737:1467/1983.Found 13 results for Loulou. Taking first one
+19:10:10.981805:1468/1983.Found 1 results for L'Ange des maudits. Taking first one
+19:10:12.211875:1469/1983.Failed. Found no results for Une aventure de Billy the kid
+19:10:12.625899:1470/1983.Found 1 results for La comédie du travail. Taking first one
+19:10:13.867970:1471/1983.Found 14 results for Calcutta. Taking first one
+19:10:15.088040:1472/1983.Found 2 results for La face cachée de la lune. Taking first one
+19:10:16.277108:1473/1983.Found 1 results for Un monde presque paisible. Taking first one
+19:10:17.525179:1474/1983.Found 3 results for La mystère de la chambre jaune. Taking first one
+19:10:18.743249:1475/1983.Found 35 results for Lone Wolf & Cub I. Taking first one
+19:10:19.963318:1476/1983.Found 2 results for Miyamoto Musashi I, II & III. Taking first one
+19:10:20.775365:40 requests reached. Pausing 10 sec
+19:10:31.167959:1477/1983.Found 32 results for Zatoichi. Taking first one
+19:10:32.387029:1478/1983.Failed. Found no results for One armed Swordman
+19:10:32.801053:1479/1983.Found 1 results for Gentlemen Prefer Blondes. Taking first one
+19:10:33.992121:1480/1983.Found 23 results for Diabel. Taking first one
+19:10:35.195190:1481/1983.Found 5 results for Tokyo Story. Taking first one
+19:10:36.375257:1482/1983.Found 1 results for The Hunt for Gollum. Taking first one
+19:10:37.602327:1483/1983.Found 10 results for Haxan. Taking first one
+19:10:38.771394:1484/1983.Found 1 results for the French Connexion. Taking first one
+19:10:40.002465:1485/1983.Found 26 results for The Exorcist. Taking first one
+19:10:41.217534:1486/1983.Found 1 results for The Asphalt Jungle. Taking first one
+19:10:42.426603:1487/1983.Found 790 results for The Dead. Taking first one
+19:10:43.634672:1488/1983.Found 1 results for Happiness of the katakuris. Taking first one
+19:10:44.865743:1489/1983.Failed. Found no results for Infernal Affairs (Trilogy)
+19:10:45.255765:1490/1983.Found 1 results for Letters from a Dead Man. Taking first one
+19:10:46.430832:1491/1983.Found 3 results for The hidden fortress. Taking first one
+19:10:46.816854:40 requests reached. Pausing 10 sec
+19:10:57.600471:1492/1983.Found 1 results for L'armata Brancaleone. Taking first one
+19:10:58.812541:1493/1983.Found 1 results for Brancaleone Alle Crociate. Taking first one
+19:11:00.027610:1494/1983.Found 1 results for Daguerreotypes. Taking first one
+19:11:01.254680:1495/1983.Found 3 results for a Matter of Life and Death. Taking first one
+19:11:02.460749:1496/1983.Found 1 results for Occupe toi d'amélie. Taking first one
+19:11:03.667818:1497/1983.Found 83 results for The Killers. Taking first one
+19:11:05.218907:1498/1983.Found 13 results for Scarface. Taking first one
+19:11:06.343971:1499/1983.Found 1 results for Un prophète. Taking first one
+19:11:08.476093:1500/1983.Found 5 results for The Jazz Singer. Taking first one
+19:11:09.652161:1501/1983.Found 2 results for The Time to Live and the Time to Die. Taking first one
+19:11:10.848229:1502/1983.Found 9 results for Peeping Tom. Taking first one
+19:11:11.976293:1503/1983.Found 12 results for Black Belt. Taking first one
+19:11:13.133360:1504/1983.Found 1 results for Rendez-Vous avec la Peur. Taking first one
+19:11:13.948406:40 requests reached. Pausing 10 sec
+19:11:24.315999:1505/1983.Found 1 results for The Fountainhead. Taking first one
+19:11:25.490066:1506/1983.Found 2 results for Love Exposure. Taking first one
+19:11:26.650133:1507/1983.Found 4 results for Gertrud. Taking first one
+19:11:27.802199:1508/1983.Found 1 results for L'ange exterminateur. Taking first one
+19:11:29.047270:1509/1983.Found 1 results for Laissons lucie faire. Taking first one
+19:11:30.190335:1510/1983.Found 1 results for L'ange bleu. Taking first one
+19:11:31.384404:1511/1983.Found 6 results for Breaking news. Taking first one
+19:11:32.602473:1512/1983.Failed. Found no results for Die Nibelungen (Trilogy)
+19:11:33.003496:1513/1983.Found 1 results for Eros plus massacre. Taking first one
+19:11:34.141561:1514/1983.Found 1 results for Anatomie D'un Rapport . Taking first one
+19:11:35.287627:1515/1983.Found 4 results for Boat people. Taking first one
+19:11:36.467694:1516/1983.Found 9 results for Daibosatsu toge. Taking first one
+19:11:37.593759:1517/1983.Failed. Found no results for His girld Friday
+19:11:37.973780:1518/1983.Found 18 results for Le professeur . Taking first one
+19:11:39.198850:1519/1983.Found 28 results for Dead or Alive . Taking first one
+19:11:39.607874:40 requests reached. Pausing 10 sec
+19:11:50.408492:1520/1983.Found 1 results for Les invasions barbares . Taking first one
+19:11:51.551557:1521/1983.Found 2 results for La vie des morts. Taking first one
+19:11:52.762626:1522/1983.Found 25 results for Les aventuriers. Taking first one
+19:11:53.926693:1523/1983.Found 9 results for White heat. Taking first one
+19:11:55.108760:1524/1983.Found 5 results for Bonne chance. Taking first one
+19:11:56.258826:1525/1983.Found 1 results for the story of Woo Viet. Taking first one
+19:11:57.387891:1526/1983.Found 21 results for Occident. Taking first one
+19:11:58.565958:1527/1983.Found 1 results for Le bon, la brute et le cinglé. Taking first one
+19:11:59.735025:1528/1983.Found 7 results for A Tale of Two Sisters. Taking first one
+19:12:00.845089:1529/1983.Found 1 results for A Bittersweet Life. Taking first one
+19:12:01.982154:1530/1983.Found 1 results for Délits flagrants. Taking first one
+19:12:03.126219:1531/1983.Found 2 results for È pericoloso sporgersi . Taking first one
+19:12:04.295286:1532/1983.Found 14 results for Napoléon. Taking first one
+19:12:05.085331:40 requests reached. Pausing 10 sec
+19:12:15.733940:1533/1983.Found 2 results for Le Chêne. Taking first one
+19:12:16.957010:1534/1983.Found 28 results for Les loups. Taking first one
+19:12:18.171080:1535/1983.Found 1 results for Casque d'or. Taking first one
+19:12:19.437152:1536/1983.Found 1 results for Oczy uroczne . Taking first one
+19:12:20.678223:1537/1983.Failed. Found no results for The end of civilisation
+19:12:21.070245:1538/1983.Failed. Found no results for 4 luni, 3 saptamani si 2 zile 
+19:12:21.491269:1539/1983.Found 2 results for Le deuxième souffle . Taking first one
+19:12:22.764342:1540/1983.Found 1 results for Sept Ans de réflexion. Taking first one
+19:12:23.963411:1541/1983.Found 2 results for Tous en scène. Taking first one
+19:12:25.162479:1542/1983.Found 1 results for Le fanfaron. Taking first one
+19:12:26.368548:1543/1983.Failed. Found no results for La vie est immense et plein de dangers
+19:12:26.788572:1544/1983.Found 2 results for Lady Snowblood. Taking first one
+19:12:28.043644:1545/1983.Found 1 results for Le conformiste. Taking first one
+19:12:29.570732:1546/1983.Found 1 results for Le Secret derrière la porte . Taking first one
+19:12:30.790801:1547/1983.Found 7 results for Chasse à l'homme. Taking first one
+19:12:32.027872:1548/1983.Found 14 results for The Edge of the World. Taking first one
+19:12:32.027872:40 requests reached. Pausing 10 sec
+19:12:43.597534:1549/1983.Found 2 results for Seppuku. Taking first one
+19:12:44.811603:1550/1983.Found 6 results for L'insoumis. Taking first one
+19:12:46.089676:1551/1983.Found 3 results for Pyaasa. Taking first one
+19:12:47.294745:1552/1983.Found 1 results for Pather Panchali. Taking first one
+19:12:48.477813:1553/1983.Found 1 results for Le salon de musique. Taking first one
+19:12:49.729885:1554/1983.Found 1 results for Romanzo Criminale. Taking first one
+19:12:50.953955:1555/1983.Found 1 results for Nos meilleures années. Taking first one
+19:12:52.159024:1556/1983.Failed. Found no results for Au cœur de la nuit
+19:12:52.581048:1557/1983.Found 1 results for Le chagrin et la pitié. Taking first one
+19:12:53.855121:1558/1983.Found 1 results for Lonesome Jim. Taking first one
+19:12:55.065190:1559/1983.Found 1 results for Nuages Flottants. Taking first one
+19:12:56.369264:1560/1983.Found 2 results for The Life and Death of Colonel Blimp. Taking first one
+19:12:57.595334:1561/1983.Found 37 results for Sparrow. Taking first one
+19:12:58.855407:1562/1983.Found 26 results for Le plaisir. Taking first one
+19:12:58.855407:40 requests reached. Pausing 10 sec
+19:13:10.077048:1563/1983.Found 11 results for Das Boot. Taking first one
+19:13:11.338121:1564/1983.Found 30 results for Zodiac. Taking first one
+19:13:12.564191:1565/1983.Found 8 results for Ip Man. Taking first one
+19:13:13.809262:1566/1983.Found 913 results for Ran. Taking first one
+19:13:15.057333:1567/1983.Found 1 results for Le Manuscrit trouvé à Saragosse. Taking first one
+19:13:16.286404:1568/1983.Found 5 results for Train de nuit. Taking first one
+19:13:17.533475:1569/1983.Found 1 results for School On Fire. Taking first one
+19:13:18.723543:1570/1983.Found 6 results for Lalka. Taking first one
+19:13:20.171626:1571/1983.Found 1 results for Les favoris de la lune. Taking first one
+19:13:21.380695:1572/1983.Found 1 results for La bataille d'Alger. Taking first one
+19:13:22.592764:1573/1983.Found 1 results for Coogan's Bluff. Taking first one
+19:13:23.798833:1574/1983.Found 1 results for Les voyages de Sullivan. Taking first one
+19:13:25.018903:1575/1983.Found 9 results for Le livre de la Jungle. Taking first one
+19:13:25.436927:40 requests reached. Pausing 10 sec
+19:13:36.217544:1576/1983.Found 1 results for 71 fragments d'une chronologie du hasard. Taking first one
+19:13:37.779633:1577/1983.Found 8 results for Satyricon. Taking first one
+19:13:39.081707:1578/1983.Failed. Found no results for La condition humaine
+19:13:39.483730:1579/1983.Found 1 results for Johnny Guitare. Taking first one
+19:13:40.684799:1580/1983.Found 1 results for La fureur de vivre. Taking first one
+19:13:41.889868:1581/1983.Found 2 results for Gran Torino. Taking first one
+19:13:43.133939:1582/1983.Found 1 results for No country for old men. Taking first one
+19:13:44.388011:1583/1983.Found 11 results for Zeitgeist. Taking first one
+19:13:45.636082:1584/1983.Found 1 results for Eastern Promises. Taking first one
+19:13:46.860152:1585/1983.Found 1 results for Cool Hand Luke. Taking first one
+19:13:48.041220:1586/1983.Found 1 results for Taxandria. Taking first one
+19:13:49.326293:1587/1983.Found 13 results for Shaft. Taking first one
+19:13:50.659370:1588/1983.Found 1 results for L'argent de poche. Taking first one
+19:13:51.956444:1589/1983.Found 3 results for Samurai Rebellion. Taking first one
+19:13:52.374468:40 requests reached. Pausing 10 sec
+19:14:03.213088:1590/1983.Found 1 results for Les demoiselles de Rochefort. Taking first one
+19:14:04.471160:1591/1983.Found 2 results for L'homme qui aimait les femmes. Taking first one
+19:14:05.707230:1592/1983.Found 1 results for Cendres et diamants. Taking first one
+19:14:06.919300:1593/1983.Found 75 results for Virus. Taking first one
+19:14:08.129369:1594/1983.Found 1 results for La veuve joyeuse. Taking first one
+19:14:09.310436:1595/1983.Found 2 results for Les Rapaces. Taking first one
+19:14:10.487504:1596/1983.Found 3 results for Rollerball. Taking first one
+19:14:11.683572:1597/1983.Found 15 results for Ben-hur . Taking first one
+19:14:12.938644:1598/1983.Found 15 results for Ben-hur . Taking first one
+19:14:14.141713:1599/1983.Found 2 results for F for Fake. Taking first one
+19:14:15.362783:1600/1983.Found 1 results for The Bothersome Man. Taking first one
+19:14:16.507848:1601/1983.Found 1 results for L'homme d'Aran. Taking first one
+19:14:17.648913:1602/1983.Found 10 results for Mimic. Taking first one
+19:14:18.440959:40 requests reached. Pausing 10 sec
+19:14:28.852554:1603/1983.Found 2 results for The Devil's Backbone. Taking first one
+19:14:30.044622:1604/1983.Found 10 results for Hellboy. Taking first one
+19:14:31.315695:1605/1983.Found 1 results for Le Labyrinthe de Pan. Taking first one
+19:14:32.443760:1606/1983.Found 1 results for Assurance Sur La Mort . Taking first one
+19:14:33.604826:1607/1983.Found 3 results for La Garçonnière. Taking first one
+19:14:34.775893:1608/1983.Found 1 results for Certains l'aiment chaud. Taking first one
+19:14:35.925959:1609/1983.Found 1 results for Boulevard du Crépuscule. Taking first one
+19:14:37.105026:1610/1983.Found 1 results for La vie privée de Sherlock Holmes. Taking first one
+19:14:38.226090:1611/1983.Found 2 results for Fahrenheit 9/11. Taking first one
+19:14:39.447160:1612/1983.Found 1 results for Be Kind Rewind. Taking first one
+19:14:40.645229:1613/1983.Found 1 results for Eternal Sunshine of the Spotless Mind . Taking first one
+19:14:41.790294:1614/1983.Found 1 results for Kind hearts and coronets. Taking first one
+19:14:43.004364:1615/1983.Found 4 results for Shadow of a doubt. Taking first one
+19:14:44.160430:1616/1983.Found 5 results for Summer Snow. Taking first one
+19:14:44.160430:40 requests reached. Pausing 10 sec
+19:14:55.310067:1617/1983.Found 199 results for The party. Taking first one
+19:14:56.454133:1618/1983.Found 1 results for Les chasses du comte Zaroff. Taking first one
+19:14:57.669202:1619/1983.Found 3 results for Tarzan, the ape man. Taking first one
+19:14:58.819268:1620/1983.Found 9 results for Intolerance. Taking first one
+19:15:00.003336:1621/1983.Found 2 results for Naissance d'une nation. Taking first one
+19:15:01.181403:1622/1983.Found 1 results for La meilleure façon de marcher . Taking first one
+19:15:02.339469:1623/1983.Found 1 results for Lola Montes. Taking first one
+19:15:03.499536:1624/1983.Found 254 results for Invasion. Taking first one
+19:15:04.703605:1625/1983.Found 3 results for Le Caiman. Taking first one
+19:15:05.941675:1626/1983.Found 2 results for La chambre du fils. Taking first one
+19:15:07.218749:1627/1983.Found 12 results for Journal intime. Taking first one
+19:15:08.388815:1628/1983.Found 3 results for A boy and his dog. Taking first one
+19:15:09.534881:1629/1983.Found 1 results for Guerre des gangs à Okinawa . Taking first one
+19:15:09.914903:40 requests reached. Pausing 10 sec
+19:15:20.737522:1630/1983.Found 13 results for Octobre . Taking first one
+19:15:22.457620:1631/1983.Found 1 results for Le cuirassé Potemkine. Taking first one
+19:15:23.623687:1632/1983.Found 2 results for Alexander Nevsky. Taking first one
+19:15:24.887759:1633/1983.Found 4 results for Ivan the Terrible I & II. Taking first one
+19:15:26.081827:1634/1983.Found 1 results for Strangers on a train. Taking first one
+19:15:27.297897:1635/1983.Found 1 results for Le dossier 51. Taking first one
+19:15:28.475964:1636/1983.Found 1 results for Le mystère picasso. Taking first one
+19:15:29.686034:1637/1983.Found 1 results for Roman d'un tricheur. Taking first one
+19:15:30.882102:1638/1983.Found 1 results for Assassins Et Voleurs . Taking first one
+19:15:32.128173:1639/1983.Found 1 results for La marque du tueur. Taking first one
+19:15:33.313241:1640/1983.Found 5 results for Aux abois . Taking first one
+19:15:34.584314:1641/1983.Found 1 results for Sword of the stranger . Taking first one
+19:15:35.757381:1642/1983.Found 4 results for Ninja Scroll. Taking first one
+19:15:36.567427:40 requests reached. Pausing 10 sec
+19:15:46.965022:1643/1983.Found 1 results for De beaux lendemains . Taking first one
+19:15:48.186092:1644/1983.Found 1 results for La clepsydre. Taking first one
+19:15:49.399161:1645/1983.Found 1 results for L'armée des ombres. Taking first one
+19:15:50.599230:1646/1983.Found 1 results for Changement d'adresse. Taking first one
+19:15:51.892304:1647/1983.Found 1 results for Un baiser s'il vous plait. Taking first one
+19:15:53.162376:1648/1983.Found 6 results for The Red Shoes. Taking first one
+19:15:54.429449:1649/1983.Found 1 results for De battre mon coeur s'est arrêté . Taking first one
+19:15:55.688521:1650/1983.Found 1 results for Vénus et fleur. Taking first one
+19:15:56.915591:1651/1983.Found 56 results for Macbeth. Taking first one
+19:15:58.141661:1652/1983.Found 1 results for Pasazerka. Taking first one
+19:15:59.398733:1653/1983.Found 1 results for Coups de feu dans la sierra . Taking first one
+19:16:00.630804:1654/1983.Found 19 results for The wizard of Oz. Taking first one
+19:16:01.856874:1655/1983.Found 3 results for Le portrait de dorian gray . Taking first one
+19:16:03.095945:1656/1983.Found 1 results for Paris nous appartient. Taking first one
+19:16:03.095945:40 requests reached. Pausing 10 sec
+19:16:14.282584:1657/1983.Found 1 results for Chaines conjugales. Taking first one
+19:16:15.516655:1658/1983.Found 2 results for Patlabor 1. Taking first one
+19:16:16.929736:1659/1983.Found 1 results for The red spectacles. Taking first one
+19:16:18.078801:1660/1983.Found 1 results for La question humaine . Taking first one
+19:16:19.238868:1661/1983.Found 2 results for Nostalghia. Taking first one
+19:16:20.466938:1662/1983.Failed. Found no results for J'ai embauché un tueur 
+19:16:20.862961:1663/1983.Found 1 results for Umberto D.. Taking first one
+19:16:21.971024:1664/1983.Found 8 results for Le corbeau. Taking first one
+19:16:23.129090:1665/1983.Found 683 results for Hombre. Taking first one
+19:16:24.306158:1666/1983.Found 3 results for Fanfan la tulipe. Taking first one
+19:16:25.435222:1667/1983.Failed. Found no results for Tokyo! : MERDE
+19:16:25.808244:1668/1983.Found 1 results for Tokyo! : Shaking Tokyo. Taking first one
+19:16:26.936308:1669/1983.Failed. Found no results for Tokyo! : Interior Design
+19:16:27.302329:1670/1983.Found 3 results for Une femme douce. Taking first one
+19:16:28.458395:1671/1983.Found 1 results for Lisa et le diable. Taking first one
+19:16:28.835417:40 requests reached. Pausing 10 sec
+19:16:39.597032:1672/1983.Found 5 results for This is spinal tap. Taking first one
+19:16:40.782100:1673/1983.Found 1 results for Les ensorcelés. Taking first one
+19:16:41.950167:1674/1983.Found 2 results for Talons aiguilles. Taking first one
+19:16:43.161236:1675/1983.Found 2 results for Princess Bride. Taking first one
+19:16:44.302301:1676/1983.Found 1 results for Les ailes du désir. Taking first one
+19:16:45.431366:1677/1983.Found 84 results for Le soleil. Taking first one
+19:16:46.534429:1678/1983.Found 1 results for Lancelot du lac. Taking first one
+19:16:47.705496:1679/1983.Failed. Found no results for Les anges du pêché
+19:16:48.072517:1680/1983.Found 1 results for Le diable probablement. Taking first one
+19:16:49.210582:1681/1983.Found 3 results for La petite Lili. Taking first one
+19:16:50.397650:1682/1983.Found 20 results for Afterlife. Taking first one
+19:16:51.619720:1683/1983.Found 30 results for Caché. Taking first one
+19:16:52.751785:1684/1983.Found 1 results for Violette Nozière. Taking first one
+19:16:54.101862:1685/1983.Found 1 results for L'inhumaine. Taking first one
+19:16:54.482884:40 requests reached. Pausing 10 sec
+19:17:05.351505:1686/1983.Found 50 results for Un flic. Taking first one
+19:17:06.512572:1687/1983.Found 2 results for Allemagne année zéro. Taking first one
+19:17:07.637636:1688/1983.Found 2 results for Voyage en Italie. Taking first one
+19:17:08.765701:1689/1983.Found 28 results for Paisa. Taking first one
+19:17:09.906766:1690/1983.Found 1 results for Au revoir les enfants. Taking first one
+19:17:11.027830:1691/1983.Found 6 results for Mon oncle. Taking first one
+19:17:12.172896:1692/1983.Found 3 results for Stromboli. Taking first one
+19:17:13.327962:1693/1983.Found 1091 results for High & Low. Taking first one
+19:17:14.454026:1694/1983.Found 2 results for Agent X27. Taking first one
+19:17:15.597091:1695/1983.Found 1 results for Shanghai Gesture. Taking first one
+19:17:16.767158:1696/1983.Found 2 results for La chambre verte. Taking first one
+19:17:17.923224:1697/1983.Found 1 results for La Mauvaise Éducation . Taking first one
+19:17:19.081291:1698/1983.Found 1 results for Le quai des brumes. Taking first one
+19:17:19.899337:40 requests reached. Pausing 10 sec
+19:17:30.279931:1699/1983.Found 1 results for Europa 51. Taking first one
+19:17:31.436997:1700/1983.Found 3 results for Free Zone. Taking first one
+19:17:32.584063:1701/1983.Found 18 results for Sans fin. Taking first one
+19:17:33.696127:1702/1983.Found 2 results for La Ballade De Narayama. Taking first one
+19:17:34.829191:1703/1983.Found 22 results for Red River. Taking first one
+19:17:35.979257:1704/1983.Found 1 results for Seuls les anges ont des ailes. Taking first one
+19:17:37.091321:1705/1983.Found 1 results for Sérénade à trois. Taking first one
+19:17:38.264388:1706/1983.Found 14 results for Providence. Taking first one
+19:17:39.404453:1707/1983.Found 1 results for Les vacances de mr Hulot. Taking first one
+19:17:40.917540:1708/1983.Found 14 results for L'espoir. Taking first one
+19:17:42.090607:1709/1983.Found 1 results for L'effrontée. Taking first one
+19:17:43.222671:1710/1983.Found 1 results for Mortelle Randonnée. Taking first one
+19:17:44.358736:1711/1983.Found 2 results for Garde à vue. Taking first one
+19:17:45.558805:1712/1983.Found 1 results for Babe, un cochon dans la ville. Taking first one
+19:17:45.558805:40 requests reached. Pausing 10 sec
+19:17:56.707443:1713/1983.Found 11 results for Mad max. Taking first one
+19:17:57.878510:1714/1983.Found 24 results for L'Avventura. Taking first one
+19:17:59.018575:1715/1983.Found 1 results for Youth of the Beast . Taking first one
+19:18:00.194642:1716/1983.Found 1 results for Le coup du berger. Taking first one
+19:18:01.327707:1717/1983.Failed. Found no results for Les enchainés
+19:18:01.699728:1718/1983.Found 1 results for Merci pour le chocolat . Taking first one
+19:18:03.135810:1719/1983.Found 13 results for Shane. Taking first one
+19:18:04.333879:1720/1983.Found 1 results for La marque du vampire. Taking first one
+19:18:05.531947:1721/1983.Found 1 results for Baisers volés. Taking first one
+19:18:06.951029:1722/1983.Found 1 results for Contes de la lune vague après la pluie. Taking first one
+19:18:08.054092:1723/1983.Found 2 results for To kill a mockingbird. Taking first one
+19:18:09.178156:1724/1983.Found 2 results for Le fil de la vie. Taking first one
+19:18:10.341223:1725/1983.Found 21 results for Nosferatu. Taking first one
+19:18:11.491288:1726/1983.Found 1 results for Antoine et Colette. Taking first one
+19:18:11.491288:40 requests reached. Pausing 10 sec
+19:18:22.926942:1727/1983.Found 1 results for Le Carrosse d'or. Taking first one
+19:18:24.147012:1728/1983.Found 1 results for La chevauchée fantastique. Taking first one
+19:18:25.349081:1729/1983.Found 1 results for Shadows of Our Forgotten Ancestors . Taking first one
+19:18:26.692158:1730/1983.Found 21 results for Les oiseaux. Taking first one
+19:18:27.960230:1731/1983.Found 2 results for Conte d'automne. Taking first one
+19:18:29.151298:1732/1983.Found 1 results for Le train sifflera 3 fois. Taking first one
+19:18:30.388369:1733/1983.Failed. Found no results for Le jour de fête
+19:18:30.781392:1734/1983.Found 1 results for Me and You and Everyone We Know. Taking first one
+19:18:31.972460:1735/1983.Found 2 results for The Assassination of Jesse James. Taking first one
+19:18:33.191530:1736/1983.Found 1 results for J'ai tué Jesse James. Taking first one
+19:18:34.380598:1737/1983.Found 19 results for L'inconnu. Taking first one
+19:18:35.581666:1738/1983.Found 1 results for L'histoire d'Adèle H. Taking first one
+19:18:36.844738:1739/1983.Found 1 results for Les mistons. Taking first one
+19:18:38.105811:1740/1983.Found 1 results for Jules et Jim. Taking first one
+19:18:38.105811:40 requests reached. Pausing 10 sec
+19:18:49.308451:1741/1983.Found 3 results for Hantise. Taking first one
+19:18:50.484519:1742/1983.Found 2 results for Les climats. Taking first one
+19:18:51.707589:1743/1983.Found 464 results for Five. Taking first one
+19:18:52.914658:1744/1983.Found 1 results for Les feux de la rampe. Taking first one
+19:18:54.529750:1745/1983.Found 1 results for Conte de cinéma. Taking first one
+19:18:55.759820:1746/1983.Found 2 results for La lettre écarlate. Taking first one
+19:18:56.954889:1747/1983.Found 3 results for Le grand amour. Taking first one
+19:18:58.174958:1748/1983.Found 2 results for Le soupirant. Taking first one
+19:18:59.367027:1749/1983.Found 15 results for Fallen Angels. Taking first one
+19:19:00.704103:1750/1983.Found 1 results for Vincent, François, Paul... et les autres . Taking first one
+19:19:01.918173:1751/1983.Found 5 results for Dragon Inn. Taking first one
+19:19:03.213247:1752/1983.Found 36 results for Le bonheur. Taking first one
+19:19:04.424316:1753/1983.Found 2 results for Monte là dessus. Taking first one
+19:19:04.818338:40 requests reached. Pausing 10 sec
+19:19:15.647958:1754/1983.Found 29 results for Furie. Taking first one
+19:19:16.830025:1755/1983.Found 1 results for Le péril jeune. Taking first one
+19:19:18.032094:1756/1983.Found 1 results for There will be blood. Taking first one
+19:19:19.231163:1757/1983.Found 1 results for Les dames du Bois de Boulogne . Taking first one
+19:19:20.435232:1758/1983.Found 1 results for The Ox-bow incident. Taking first one
+19:19:21.669302:1759/1983.Found 1 results for Xiao Wu, pickpocket. Taking first one
+19:19:23.177389:1760/1983.Found 4 results for You live only once. Taking first one
+19:19:24.388458:1761/1983.Found 3 results for The Day the Earth Stood Still . Taking first one
+19:19:25.567525:1762/1983.Found 40 results for Georgia. Taking first one
+19:19:26.727592:1763/1983.Found 2 results for Entre les murs. Taking first one
+19:19:27.929660:1764/1983.Found 25 results for Le cirque. Taking first one
+19:19:29.159731:1765/1983.Found 1 results for The mortal storm. Taking first one
+19:19:30.365800:1766/1983.Found 2 results for L'enfant sauvage. Taking first one
+19:19:31.185847:40 requests reached. Pausing 10 sec
+19:19:41.566440:1767/1983.Found 1 results for Voici le temps des assassins. Taking first one
+19:19:42.783510:1768/1983.Found 9 results for Warlords. Taking first one
+19:19:43.950577:1769/1983.Found 2 results for Monsieur Verdoux. Taking first one
+19:19:45.227650:1770/1983.Failed. Found no results for La splendeur des Ambersons
+19:19:45.613672:1771/1983.Found 1 results for Tirez sur le pianiste. Taking first one
+19:19:46.795739:1772/1983.Found 3 results for Fahrenheit 451. Taking first one
+19:19:47.979807:1773/1983.Found 7 results for 8 1/2. Taking first one
+19:19:49.166875:1774/1983.Found 1 results for Les enfants terribles. Taking first one
+19:19:50.349943:1775/1983.Found 2 results for Les parents terribles. Taking first one
+19:19:52.503066:1776/1983.Found 2 results for Zero de conduite. Taking first one
+19:19:53.660132:1777/1983.Found 10 results for La belle et la bête. Taking first one
+19:19:54.796197:1778/1983.Found 2 results for Peau d'âne. Taking first one
+19:19:55.978265:1779/1983.Found 1 results for L.627. Taking first one
+19:19:57.180333:1780/1983.Found 14 results for Exiled. Taking first one
+19:19:57.964378:40 requests reached. Pausing 10 sec
+19:20:08.345972:1781/1983.Found 2 results for Les habitants. Taking first one
+19:20:09.505038:1782/1983.Found 12 results for To be or not to be. Taking first one
+19:20:10.657104:1783/1983.Found 50 results for Madame de…. Taking first one
+19:20:11.827171:1784/1983.Found 1 results for Mari Iyagi. Taking first one
+19:20:13.113245:1785/1983.Found 3 results for Three extremes. Taking first one
+19:20:14.282312:1786/1983.Found 2 results for un homme et une femme. Taking first one
+19:20:15.437378:1787/1983.Found 2 results for Mad Detective. Taking first one
+19:20:16.598444:1788/1983.Failed. Found no results for Le mirage de la vie
+19:20:16.977466:1789/1983.Found 1 results for Out 1 : Noli me Tangere. Taking first one
+19:20:18.124531:1790/1983.Found 8 results for La Taupe. Taking first one
+19:20:19.588615:1791/1983.Found 19 results for L'homme de fer. Taking first one
+19:20:20.743681:1792/1983.Found 1 results for Le beau serge. Taking first one
+19:20:22.134761:1793/1983.Found 1 results for La femme de l'aviateur. Taking first one
+19:20:23.272826:1794/1983.Found 177 results for Persona. Taking first one
+19:20:24.125875:40 requests reached. Pausing 10 sec
+19:20:34.501468:1795/1983.Found 1 results for Le Grand Silence. Taking first one
+19:20:35.655534:1796/1983.Found 1 results for L'homme de marbre. Taking first one
+19:20:36.815600:1797/1983.Found 2 results for La femme au portrait. Taking first one
+19:20:38.290685:1798/1983.Found 1 results for The Assassination of Jesse James by the Coward Robert Ford. Taking first one
+19:20:39.433750:1799/1983.Found 2 results for La nuit américaine. Taking first one
+19:20:40.577816:1800/1983.Found 2 results for Le jour se lève. Taking first one
+19:20:41.710880:1801/1983.Found 1 results for Et là bas quelle heure est il ?. Taking first one
+19:20:42.873947:1802/1983.Found 1 results for Hannah et ses sœurs. Taking first one
+19:20:44.024013:1803/1983.Found 45 results for The Crowd . Taking first one
+19:20:45.179079:1804/1983.Found 1 results for Duel in the Sun. Taking first one
+19:20:46.391148:1805/1983.Found 1 results for Singing in the rain. Taking first one
+19:20:47.507212:1806/1983.Found 21 results for Le Miroir. Taking first one
+19:20:48.678279:1807/1983.Found 3 results for The Great Dictator. Taking first one
+19:20:49.870347:1808/1983.Found 6 results for Modern Times. Taking first one
+19:20:49.870347:40 requests reached. Pausing 10 sec
+19:21:01.012984:1809/1983.Found 13 results for City Lights. Taking first one
+19:21:02.188052:1810/1983.Found 14 results for Gold Rush. Taking first one
+19:21:03.332117:1811/1983.Found 479 results for The Kid. Taking first one
+19:21:04.502184:1812/1983.Found 22 results for The Chaser. Taking first one
+19:21:05.681251:1813/1983.Found 7 results for A tale of two sisters. Taking first one
+19:21:06.824317:1814/1983.Found 33 results for Je t'aime, je t'aime. Taking first one
+19:21:07.957382:1815/1983.Found 1 results for Crin Blanc. Taking first one
+19:21:09.142449:1816/1983.Found 3 results for Le ballon rouge. Taking first one
+19:21:10.295515:1817/1983.Found 1 results for Easy Riders. Taking first one
+19:21:11.414579:1818/1983.Found 1 results for Un homme qui dort. Taking first one
+19:21:12.533643:1819/1983.Found 2 results for 28 days later. Taking first one
+19:21:13.739712:1820/1983.Found 1 results for Hiroshima mon amour. Taking first one
+19:21:14.854776:1821/1983.Found 1 results for L'emploi du temps. Taking first one
+19:21:15.234798:40 requests reached. Pausing 10 sec
+19:21:26.071418:1822/1983.Found 2 results for Ressources Humaines. Taking first one
+19:21:27.292488:1823/1983.Found 1 results for Pat Garrett et Billy le Kid. Taking first one
+19:21:28.889579:1824/1983.Found 2 results for Johnny Got His Gun . Taking first one
+19:21:30.098648:1825/1983.Found 2 results for The Manchurian Candidate. Taking first one
+19:21:31.334719:1826/1983.Found 2 results for Faux semblants. Taking first one
+19:21:32.538788:1827/1983.Found 1 results for Les deux anglaises et le continent . Taking first one
+19:21:33.756857:1828/1983.Found 8 results for Orphée. Taking first one
+19:21:34.957926:1829/1983.Found 1 results for Le testament d'Orphée. Taking first one
+19:21:36.155994:1830/1983.Found 148 results for Accident. Taking first one
+19:21:37.367064:1831/1983.Found 2 results for Les criminels. Taking first one
+19:21:38.559132:1832/1983.Found 8 results for Les damnés. Taking first one
+19:21:39.802203:1833/1983.Found 12 results for Le messager. Taking first one
+19:21:41.004272:1834/1983.Found 1 results for monsieur klein. Taking first one
+19:21:41.817318:40 requests reached. Pausing 10 sec
+19:21:52.218913:1835/1983.Found 27 results for The Servant. Taking first one
+19:21:53.396981:1836/1983.Found 45 results for The host. Taking first one
+19:21:54.685054:1837/1983.Found 2 results for Memories of Murder. Taking first one
+19:21:55.871122:1838/1983.Found 1 results for Barking Dogs Never Bite. Taking first one
+19:21:57.061190:1839/1983.Found 8 results for Charade. Taking first one
+19:21:58.277260:1840/1983.Found 4 results for Rudolph, the Red-Nosed Reindeer. Taking first one
+19:21:59.485329:1841/1983.Found 7 results for Mary Poppins. Taking first one
+19:22:00.658396:1842/1983.Found 1 results for Andrei Roublev. Taking first one
+19:22:01.865465:1843/1983.Found 3 results for Solaris. Taking first one
+19:22:03.118537:1844/1983.Found 3 results for ExistenZ. Taking first one
+19:22:04.298604:1845/1983.Found 1 results for Le Festin Nu. Taking first one
+19:22:05.508673:1846/1983.Found 1 results for Les nuits de cabiria. Taking first one
+19:22:06.715742:1847/1983.Found 9 results for La dolce vita. Taking first one
+19:22:08.221829:1848/1983.Found 1 results for Amarcord . Taking first one
+19:22:08.221829:40 requests reached. Pausing 10 sec
+19:22:19.421469:1849/1983.Found 1 results for Les enfants du paradis. Taking first one
+19:22:20.612537:1850/1983.Found 1 results for Par delà les nuages. Taking first one
+19:22:21.793605:1851/1983.Found 16 results for Le procès. Taking first one
+19:22:22.974672:1852/1983.Found 5 results for Citizen Kane. Taking first one
+19:22:24.149740:1853/1983.Found 25 results for L'argent. Taking first one
+19:22:25.655826:1854/1983.Found 1 results for Mouchette. Taking first one
+19:22:26.892896:1855/1983.Found 1 results for Au hasard Balthazar . Taking first one
+19:22:28.061963:1856/1983.Found 1 results for Un condamné à mort s'est échappé. Taking first one
+19:22:29.264032:1857/1983.Found 15 results for Pickpocket. Taking first one
+19:22:30.460100:1858/1983.Found 27 results for Bonjour. Taking first one
+19:22:31.710172:1859/1983.Found 46 results for Volver. Taking first one
+19:22:32.888239:1860/1983.Found 3 results for L'Amateur . Taking first one
+19:22:34.204315:1861/1983.Found 4 results for Le Hasard . Taking first one
+19:22:34.594337:40 requests reached. Pausing 10 sec
+19:22:45.418956:1862/1983.Found 11 results for Le Décalogue. Taking first one
+19:22:46.588023:1863/1983.Found 1 results for La Double Vie de Véronique. Taking first one
+19:22:47.781091:1864/1983.Found 3 results for Trois Couleurs. Taking first one
+19:22:48.952158:1865/1983.Found 2 results for Le Troisième Homme. Taking first one
+19:22:50.132226:1866/1983.Found 68 results for La Strada. Taking first one
+19:22:51.360296:1867/1983.Found 4 results for Touch of evil. Taking first one
+19:22:52.571365:1868/1983.Found 12 results for Nobody Knows. Taking first one
+19:22:54.054450:1869/1983.Found 1 results for The Adventures of Buckaroo Banzai Across the 8th Dimension. Taking first one
+19:22:55.255519:1870/1983.Found 1 results for Chelovek s kino-apparatom. Taking first one
+19:22:56.469588:1871/1983.Found 1 results for Das Cabinet des Dr. Caligari.. Taking first one
+19:22:57.731660:1872/1983.Found 1 results for Le cercle rouge. Taking first one
+19:22:58.998733:1873/1983.Found 11 results for Le samouraï. Taking first one
+19:23:00.242804:1874/1983.Found 1 results for Le doulos. Taking first one
+19:23:01.087852:40 requests reached. Pausing 10 sec
+19:23:11.487447:1875/1983.Found 2 results for Slaughterhouse-Five. Taking first one
+19:23:12.711517:1876/1983.Found 2 results for The Battle of Algiers. Taking first one
+19:23:13.911586:1877/1983.Found 1 results for L'odyssée de la vie. Taking first one
+19:23:15.108654:1878/1983.Failed. Found no results for L'éternité et un jour
+19:23:15.497676:1879/1983.Found 1 results for La double vie de véronique. Taking first one
+19:23:16.925758:1880/1983.Found 11 results for Le decalogue. Taking first one
+19:23:18.093825:1881/1983.Found 4 results for Le hasard. Taking first one
+19:23:19.316895:1882/1983.Failed. Found no results for 3 couleurs : la trilogie
+19:23:19.711918:1883/1983.Found 1 results for Camera Buff. Taking first one
+19:23:20.894985:1884/1983.Found 43 results for Stalker. Taking first one
+19:23:22.120055:1885/1983.Found 13 results for Le Sacrifice. Taking first one
+19:23:23.411129:1886/1983.Found 1 results for Le beau mariage. Taking first one
+19:23:24.687202:1887/1983.Found 1 results for Une étudiante d'aujourd'hui. Taking first one
+19:23:25.906272:1888/1983.Found 1 results for La carrière de Suzanne. Taking first one
+19:23:27.106340:1889/1983.Found 4 results for L'Aurore. Taking first one
+19:23:27.497363:40 requests reached. Pausing 10 sec
+19:23:38.292980:1890/1983.Found 2 results for Les 400 coups. Taking first one
+19:23:39.504050:1891/1983.Found 19 results for Playtime. Taking first one
+19:23:40.717119:1892/1983.Found 2 results for L'atalante. Taking first one
+19:23:41.921188:1893/1983.Found 1 results for Zabriskie Point. Taking first one
+19:23:43.098255:1894/1983.Found 1 results for Color of Pomegranates . Taking first one
+19:23:44.367328:1895/1983.Found 1 results for On achève bien les chevaux. Taking first one
+19:23:45.548395:1896/1983.Found 5 results for Festen. Taking first one
+19:23:46.731463:1897/1983.Found 1 results for Manufacturing Consent. Taking first one
+19:23:47.975534:1898/1983.Found 1 results for l'Année dernière à Marienbad. Taking first one
+19:23:49.148601:1899/1983.Found 1 results for M.A.S.H. Taking first one
+19:23:50.368671:1900/1983.Found 1 results for La comtesse aux pieds nus. Taking first one
+19:23:51.574740:1901/1983.Failed. Found no results for Berlin alexanderplatz 1-4
+19:23:51.978763:1902/1983.Found 3 results for Funny Games. Taking first one
+19:23:53.196833:1903/1983.Found 2 results for The crying game. Taking first one
+19:23:53.591855:40 requests reached. Pausing 10 sec
+19:24:04.421475:1904/1983.Found 1 results for La Compagnie des loups. Taking first one
+19:24:05.669546:1905/1983.Found 12 results for The wild bunch. Taking first one
+19:24:06.922618:1906/1983.Found 1 results for L'Aventure de Madame Muir. Taking first one
+19:24:08.114686:1907/1983.Found 5 results for All About Eve. Taking first one
+19:24:09.298754:1908/1983.Found 3 results for Le limier. Taking first one
+19:24:10.470821:1909/1983.Found 10 results for Avalon. Taking first one
+19:24:11.656889:1910/1983.Found 1 results for Ghost in the Shell 2 : Innocence. Taking first one
+19:24:12.885959:1911/1983.Found 1 results for Le voleur de bicyclette. Taking first one
+19:24:14.139031:1912/1983.Found 3 results for Trainspotting. Taking first one
+19:24:15.352100:1913/1983.Found 1 results for L'Impossible Monsieur Bébé. Taking first one
+19:24:16.546168:1914/1983.Found 2 results for Le Grand Sommeil. Taking first one
+19:24:17.746237:1915/1983.Found 10 results for Rio Bravo. Taking first one
+19:24:18.970307:1916/1983.Found 1 results for Les hommes préfèrent les blondes . Taking first one
+19:24:19.747351:40 requests reached. Pausing 10 sec
+19:24:30.417962:1917/1983.Found 3 results for Level Five. Taking first one
+19:24:31.726037:1918/1983.Found 14 results for Blow-up. Taking first one
+19:24:33.064113:1919/1983.Found 1 results for Rome Ville ouverte. Taking first one
+19:24:34.263182:1920/1983.Found 1 results for La maman et la putain. Taking first one
+19:24:35.482251:1921/1983.Found 16 results for Ghost in the Shell. Taking first one
+19:24:36.707321:1922/1983.Found 1 results for L'homme sans passé. Taking first one
+19:24:37.875388:1923/1983.Found 1 results for Notre poison quotidien. Taking first one
+19:24:39.076457:1924/1983.Found 6 results for Magnolia. Taking first one
+19:24:40.308527:1925/1983.Found 2 results for In the Mood for Love. Taking first one
+19:24:41.514596:1926/1983.Found 1 results for Chungking Express. Taking first one
+19:24:42.895675:1927/1983.Found 2 results for Ashes of Time. Taking first one
+19:24:44.095744:1928/1983.Found 1 results for Tout sur ma mère. Taking first one
+19:24:45.329815:1929/1983.Found 41 results for Vampyr. Taking first one
+19:24:46.515882:1930/1983.Found 1 results for La passion de Jeanne d'Arc. Taking first one
+19:24:46.515882:40 requests reached. Pausing 10 sec
+19:24:57.718523:1931/1983.Found 3 results for Ordet. Taking first one
+19:24:58.951594:1932/1983.Found 2 results for Kwaidan. Taking first one
+19:25:00.160663:1933/1983.Found 54 results for Possession. Taking first one
+19:25:01.403734:1934/1983.Found 1 results for Le Charme discret de la bourgeoisie. Taking first one
+19:25:02.654806:1935/1983.Found 1 results for Un chien andalou. Taking first one
+19:25:03.875875:1936/1983.Found 3 results for Belle de jour. Taking first one
+19:25:05.087945:1937/1983.Found 3 results for Violent Cop. Taking first one
+19:25:06.281013:1938/1983.Found 2 results for Sonatine. Taking first one
+19:25:07.504083:1939/1983.Found 2 results for Kids Return. Taking first one
+19:25:09.128176:1940/1983.Found 4 results for Hana-Bi. Taking first one
+19:25:10.349246:1941/1983.Found 1 results for L'été de Kikujiro. Taking first one
+19:25:11.596317:1942/1983.Found 32 results for Zatoichi. Taking first one
+19:25:12.808386:1943/1983.Found 1 results for Cléo de 5 à 7. Taking first one
+19:25:13.236411:40 requests reached. Pausing 10 sec
+19:25:24.088031:1944/1983.Found 1 results for Eight-Diagram Pole Fighter. Taking first one
+19:25:25.325102:1945/1983.Failed. Found no results for Le 7eme sceau
+19:25:25.744126:1946/1983.Found 1 results for Les fraises sauvages. Taking first one
+19:25:26.938194:1947/1983.Found 9 results for Une passion. Taking first one
+19:25:28.182266:1948/1983.Found 6 results for Rashomon. Taking first one
+19:25:29.398335:1949/1983.Found 1 results for Les Sept Samouraïs. Taking first one
+19:25:30.667408:1950/1983.Found 2 results for Kagemusha. Taking first one
+19:25:31.894478:1951/1983.Found 72 results for Vivre. Taking first one
+19:25:33.109547:1952/1983.Found 4 results for Yojimbo. Taking first one
+19:25:34.347618:1953/1983.Found 8 results for La vie est belle. Taking first one
+19:25:35.543687:1954/1983.Found 8 results for La vie est belle. Taking first one
+19:25:36.775757:1955/1983.Found 5 results for Smoking/No Smoking. Taking first one
+19:25:37.996827:1956/1983.Found 3 results for Delivrance. Taking first one
+19:25:39.196896:1957/1983.Found 12 results for Excalibur. Taking first one
+19:25:39.590918:40 requests reached. Pausing 10 sec
+19:25:50.415537:1958/1983.Found 1 results for The emerald forest. Taking first one
+19:25:51.780615:1959/1983.Found 70 results for The general. Taking first one
+19:25:53.041687:1960/1983.Found 6 results for Rosetta. Taking first one
+19:25:54.212754:1961/1983.Found 6 results for Perfect Blue. Taking first one
+19:25:55.463826:1962/1983.Found 719 results for Bill & Ted excellent adventure . Taking first one
+19:25:56.700897:1963/1983.Found 719 results for Bill & Ted bogus journey. Taking first one
+19:25:57.947968:1964/1983.Found 35 results for M le maudit. Taking first one
+19:25:59.176038:1965/1983.Found 26 results for Metropolis. Taking first one
+19:26:00.389108:1966/1983.Found 1 results for Le testament du docteur Mabuse. Taking first one
+19:26:01.574176:1967/1983.Found 13 results for La mouche. Taking first one
+19:26:02.756243:1968/1983.Found 2 results for Le tombeau des lucioles. Taking first one
+19:26:03.966312:1969/1983.Found 8 results for The dirty dozen. Taking first one
+19:26:05.169381:1970/1983.Found 1 results for Boogie Nights. Taking first one
+19:26:05.942425:40 requests reached. Pausing 10 sec
+19:26:16.342020:1971/1983.Found 25 results for Casablanca. Taking first one
+19:26:17.529088:1972/1983.Found 2 results for Le faucon maltais. Taking first one
+19:26:18.740157:1973/1983.Found 84 results for Laura. Taking first one
+19:26:20.914282:1974/1983.Failed. Found no results for Derzou Ouzala
+19:26:21.320305:1975/1983.Found 1 results for Entretien avec un vampire. Taking first one
+19:26:22.591378:1976/1983.Found 44 results for Freaks. Taking first one
+19:26:23.803447:1977/1983.Found 2 results for La féline. Taking first one
+19:26:24.980514:1978/1983.Found 1 results for Fitzcarraldo. Taking first one
+19:26:26.203584:1979/1983.Found 1 results for Aguirre, the Wrath of God. Taking first one
+19:26:27.403653:1980/1983.Found 2 results for Death in venice. Taking first one
+19:26:28.665725:1981/1983.Found 30 results for The leopard. Taking first one
+19:26:30.081806:1982/1983.Found 1 results for Rocco and his brothers. Taking first one
+19:26:31.242872:1983/1983.Found 100 results for The damned. Taking first one
+19:26:32.024917:Rewriting headers
+19:26:32.067920:Failed to find a movie for 75 on 1983
