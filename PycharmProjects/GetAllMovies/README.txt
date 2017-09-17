@@ -1,0 +1,1 @@
+Get an API key from themoviedb.org and copy/paste it in file "apikey.txt"

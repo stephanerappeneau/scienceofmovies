@@ -1,6 +1,7 @@
 # ----------------------------------------------------
 # CREATION FROM SCRATCH (reprise tolérée) D'UN FICHIER QUI
 # RECUPERE TOUS LES DETAILS D'UN FILM SUR TMDB
+# This product uses the TMDb API but is not endorsed or certified by TMDb
 # ----------------------------------------------------
 
 import json
@@ -9,13 +10,15 @@ import csv
 import datetime
 import os
 
-# Ma clé d'authentification pour l'API tmdb
-api_key = "04fe0efd7c6e8c505128686c70ae5825"
 filename = "allmoviesdetails.csv"
 
-nbofreq = 0
+#retrieve API KEY
+api_key_file = "apikey.txt"
+with open(api_key_file, "r") as filehandle:
+    api_key =  next(csv.reader(filehandle))[0]
 
-request = "https://api.themoviedb.org/3/movie/latest?api_key=04fe0efd7c6e8c505128686c70ae5825"
+nbofreq = 0
+request = "https://api.themoviedb.org/3/movie/latest?api_key="+api_key
 
 # Si le fichier n'existe pas on le crée et initialise les headers
 if not os.path.isfile(filename):
@@ -34,20 +37,26 @@ if not os.path.isfile(filename):
         writer.writerow(headers)
         print(str(datetime.datetime.now().time()) + " : headers")
 
-# Sinon on l'ouvre (en lecture) pour compter le nb de lignes
+# Sinon on l'ouvre (en lecture) pour trouver le dernier ID
 with open(filename, "r", encoding='utf-8') as filehandle:
-    rowcount = sum(1 for line in csv.reader(filehandle))
-    print(str(rowcount) + " lines")
+    reader=csv.reader(filehandle)
+    for row in reader:
+            try:
+                rowlist = row[0].split(";")
+                rowcount = rowlist[6]
+            except:
+                pass
+
 
 # Puis on l'ouvre en écriture pour le remplir
 with open(filename, "a", encoding='utf-8') as filehandle:
 
     # Récupération de l'index du dernier film dispo sur tmdb
-    querystring = "https://api.themoviedb.org/3/movie/latest?api_key=04fe0efd7c6e8c505128686c70ae5825"
+    querystring = "https://api.themoviedb.org/3/movie/latest?api_key="+api_key
     req_details = requests.get(querystring)
     dic_details = json.loads(req_details.text)
     latest_tmdb_movie_index = dic_details["id"]
-
+    rowcount=int(rowcount)
     # On récupère et stocke chaque film entre {nb de lignes déjà dans le fichier} et {latest movie}
     while rowcount < latest_tmdb_movie_index:
         writer = csv.writer(filehandle, delimiter=';', lineterminator='\n')
